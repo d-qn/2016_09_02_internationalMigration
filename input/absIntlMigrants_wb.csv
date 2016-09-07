@@ -1,0 +1,1551 @@
+"iso2c","country","pc","year","iso3c","region","abs"
+"1A","Arab World",8.86441572090009,2015,"ARB","Aggregates",34764700
+"1W","World",3.32823103002279,2015,"WLD","Aggregates",243192681
+"4E","East Asia & Pacific (excluding high income)",0.410559315407199,2015,NA,NA,8359654
+"7E","Europe & Central Asia (excluding high income)",6.85442834586242,2015,NA,NA,28128832
+"8S","South Asia",0.653007516159785,2015,"SAS","Aggregates",11377262
+"AD","Andorra",59.713649198984,2015,"AND","Europe & Central Asia (all income levels)",42082
+"AE","United Arab Emirates",88.4040483728066,2015,"ARE","Middle East & North Africa (all income levels)",8095126
+"AF","Afghanistan",1.17554692684705,2015,"AFG","South Asia",382365
+"AG","Antigua and Barbuda",30.5855061099131,2015,"ATG","Latin America & Caribbean (all income levels)",28083
+"AL","Albania",1.98903641031678,2015,"ALB","Europe & Central Asia (all income levels)",57616
+"AM","Armenia",6.33589288838696,2015,"ARM","Europe & Central Asia (all income levels)",191199
+"AO","Angola",0.427004679966497,2015,"AGO","Sub-Saharan Africa (all income levels)",106845
+"AR","Argentina",4.80529233472193,2015,"ARG","Latin America & Caribbean (all income levels)",2086302
+"AS","American Samoa",41.8020094349815,2015,"ASM","East Asia & Pacific (all income levels)",23216
+"AT","Austria",17.465726250517,2015,"AUT","Europe & Central Asia (all income levels)",1492374
+"AU","Australia",28.2184096915625,2015,"AUS","East Asia & Pacific (all income levels)",6763663
+"AW","Aruba",34.7621018587146,2015,"ABW","Latin America & Caribbean (all income levels)",36114
+"AZ","Azerbaijan",2.70906158396255,2015,"AZE","Europe & Central Asia (all income levels)",264241
+"B8","Central Europe and the Baltics",3.27984875535025,2015,NA,NA,3394733
+"BA","Bosnia and Herzegovina",0.913364839954483,2015,"BIH","Europe & Central Asia (all income levels)",34803
+"BB","Barbados",12.1299016589554,2015,"BRB","Latin America & Caribbean (all income levels)",34475
+"BD","Bangladesh",0.883753735396142,2015,"BGD","South Asia",1422805
+"BE","Belgium",12.2835331942319,2015,"BEL","Europe & Central Asia (all income levels)",1387940
+"BF","Burkina Faso",3.89203985292924,2015,"BFA","Sub-Saharan Africa (all income levels)",704676
+"BG","Bulgaria",1.428196392424,2015,"BGR","Europe & Central Asia (all income levels)",102113
+"BH","Bahrain",51.12678500505,2015,"BHR","Middle East & North Africa (all income levels)",704137
+"BI","Burundi",2.56563222872762,2015,"BDI","Sub-Saharan Africa (all income levels)",286810
+"BJ","Benin",2.25554096484421,2015,"BEN","Sub-Saharan Africa (all income levels)",245399
+"BM","Bermuda",30.8463970066447,2015,"BMU","North America",19126
+"BN","Brunei Darussalam",24.2759719084662,2015,"BRN","East Asia & Pacific (all income levels)",102733
+"BO","Bolivia",1.33326744185504,2015,"BOL","Latin America & Caribbean (all income levels)",142989
+"BR","Brazil",0.34331320024167,2015,"BRA","Latin America & Caribbean (all income levels)",713568
+"BS","Bahamas, The",15.2843030882508,2015,"BHS","Latin America & Caribbean (all income levels)",59306
+"BT","Bhutan",6.59576939457687,2015,"BTN","South Asia",51106
+"BW","Botswana",7.10033436685768,2015,"BWA","Sub-Saharan Africa (all income levels)",160644
+"BY","Belarus",11.4040105621143,2015,"BLR","Europe & Central Asia (all income levels)",1082905
+"BZ","Belize",14.990801225761,2015,"BLZ","Latin America & Caribbean (all income levels)",53860
+"CA","Canada",21.801663648343,2015,"CAN","North America",7835502
+"CD","Congo, Dem. Rep.",0.70624628058302,2015,"COD","Sub-Saharan Africa (all income levels)",545694
+"CF","Central African Republic",1.6651721924121,2015,"CAF","Sub-Saharan Africa (all income levels)",81598
+"CG","Congo, Rep.",8.50579936930912,2015,"COG","Sub-Saharan Africa (all income levels)",392996
+"CH","Switzerland",29.3866855419963,2015,"CHE","Europe & Central Asia (all income levels)",2438702
+"CI","Cote d'Ivoire",9.58259865535208,2015,"CIV","Sub-Saharan Africa (all income levels)",2175399
+"CL","Chile",2.61551321666127,2015,"CHL","Latin America & Caribbean (all income levels)",469436
+"CM","Cameroon",1.63631370372888,2015,"CMR","Sub-Saharan Africa (all income levels)",381984
+"CN","China",0.071076396299372,2015,"CHN","East Asia & Pacific (all income levels)",978046
+"CO","Colombia",0.276047226979187,2015,"COL","Latin America & Caribbean (all income levels)",133134
+"CR","Costa Rica",8.77100991087492,2015,"CRI","Latin America & Caribbean (all income levels)",421697
+"CU","Cuba",0.117089665081063,2015,"CUB","Latin America & Caribbean (all income levels)",13336
+"CV","Cabo Verde",2.86723201832078,2015,NA,NA,14924
+"CW","Curacao",23.925115932902,2015,"CUW","Latin America & Caribbean (all income levels)",37611
+"CY","Cyprus",16.834034154295,2015,"CYP","Europe & Central Asia (all income levels)",196167
+"CZ","Czech Republic",3.84222568016916,2015,"CZE","Europe & Central Asia (all income levels)",405093
+"DE","Germany",14.8790512953233,2015,"DEU","Europe & Central Asia (all income levels)",12005690
+"DJ","Djibouti",12.6541204084874,2015,"DJI","Middle East & North Africa (all income levels)",112351
+"DK","Denmark",10.0989913532723,2015,"DNK","Europe & Central Asia (all income levels)",572520
+"DM","Dominica",9.24600990643918,2015,"DMA","Latin America & Caribbean (all income levels)",6720
+"DO","Dominican Republic",3.94707985294239,2015,"DOM","Latin America & Caribbean (all income levels)",415564
+"DZ","Algeria",0.611072022730303,2015,"DZA","Middle East & North Africa (all income levels)",242391
+"EC","Ecuador",2.40029910130242,2015,"ECU","Latin America & Caribbean (all income levels)",387513
+"EE","Estonia",15.4163092221449,2015,"EST","Europe & Central Asia (all income levels)",202348
+"EG","Egypt, Arab Rep.",0.537267286680377,2015,"EGY","Middle East & North Africa (all income levels)",491643
+"ES","Spain",12.6902371918259,2015,"ESP","Europe & Central Asia (all income levels)",5852953
+"ET","Ethiopia",1.07952601222951,2015,"ETH","Sub-Saharan Africa (all income levels)",1072949
+"EU","European Union",10.7224076641985,2015,"EUU","Aggregates",54070726
+"F1","Fragile and conflict affected situations",2.41995873035884,2015,NA,NA,11721534
+"FI","Finland",5.73968325726902,2015,"FIN","Europe & Central Asia (all income levels)",315881
+"FJ","Fiji",1.54134137387981,2015,"FJI","East Asia & Pacific (all income levels)",13751
+"FM","Micronesia, Fed. Sts.",2.63833046142064,2015,"FSM","East Asia & Pacific (all income levels)",2756
+"FO","Faroe Islands",11.4462955662981,2015,NA,NA,5517
+"FR","France",12.0884793768866,2015,"FRA","Europe & Central Asia (all income levels)",7784418
+"GA","Gabon",15.5558595298651,2015,"GAB","Sub-Saharan Africa (all income levels)",268384
+"GB","United Kingdom",13.200978246274,2015,"GBR","Europe & Central Asia (all income levels)",8543120
+"GD","Grenada",6.60613152351978,2015,"GRD","Latin America & Caribbean (all income levels)",7057
+"GE","Georgia",4.22024835167253,2015,"GEO","Europe & Central Asia (all income levels)",168802
+"GH","Ghana",1.45739715218881,2015,"GHA","Sub-Saharan Africa (all income levels)",399471
+"GI","Gibraltar",34.3452214669274,2015,"GIB","Europe & Central Asia (all income levels)",11065
+"GL","Greenland",10.6948350122806,2015,"GRL","Europe & Central Asia (all income levels)",6009
+"GM","Gambia, The",9.67088648285922,2015,"GMB","Sub-Saharan Africa (all income levels)",192540
+"GN","Guinea",1.81156655898875,2015,"GIN","Sub-Saharan Africa (all income levels)",228413
+"GQ","Equatorial Guinea",1.28097413201429,2015,"GNQ","Sub-Saharan Africa (all income levels)",10825
+"GR","Greece",11.3423773738507,2015,"GRC","Europe & Central Asia (all income levels)",1242514
+"GT","Guatemala",0.46718767180629,2015,"GTM","Latin America & Caribbean (all income levels)",76352
+"GU","Guam",44.7885334196663,2015,"GUM","East Asia & Pacific (all income levels)",76089
+"GW","Guinea-Bissau",1.21090371816247,2015,"GNB","Sub-Saharan Africa (all income levels)",22333
+"GY","Guyana",2.00551438236962,2015,"GUY","Latin America & Caribbean (all income levels)",15384
+"HK","Hong Kong SAR, China",38.9499399216491,2015,"HKG","East Asia & Pacific (all income levels)",2838665
+"HN","Honduras",0.3476135161844,2015,"HND","Latin America & Caribbean (all income levels)",28070
+"HR","Croatia",13.6047139871854,2015,"HRV","Europe & Central Asia (all income levels)",576883
+"HT","Haiti",0.369048200333356,2015,"HTI","Latin America & Caribbean (all income levels)",39529
+"HU","Hungary",4.56246525249104,2015,"HUN","Europe & Central Asia (all income levels)",449632
+"ID","Indonesia",0.127675543243526,2015,"IDN","East Asia & Pacific (all income levels)",328846
+"IE","Ireland",15.9169365666588,2015,"IRL","Europe & Central Asia (all income levels)",746260
+"IL","Israel",24.9469000386407,2015,"ISR","Middle East & North Africa (all income levels)",2011727
+"IM","Isle of Man",51.516290726817,2015,"IMN","Europe & Central Asia (all income levels)",45221
+"IN","India",0.399752709149401,2015,"IND","South Asia",5240960
+"IQ","Iraq",0.9715760982742,2015,"IRQ","Middle East & North Africa (all income levels)",353881
+"IR","Iran, Islamic Rep.",3.44639753479213,2015,"IRN","Middle East & North Africa (all income levels)",2726420
+"IS","Iceland",11.3901495029218,2015,"ISL","Europe & Central Asia (all income levels)",37522
+"IT","Italy",9.6807677420957,2015,"ITA","Europe & Central Asia (all income levels)",5788875
+"JG","Channel Islands",50.2816264692227,2015,"CHI","Europe & Central Asia (all income levels)",82307
+"JM","Jamaica",0.829367046917036,2015,"JAM","Latin America & Caribbean (all income levels)",23167
+"JO","Jordan",40.9771116038916,2015,"JOR","Middle East & North Africa (all income levels)",3112026
+"JP","Japan",1.61477505702794,2015,"JPN","East Asia & Pacific (all income levels)",2043877
+"KE","Kenya",2.35472288542212,2015,"KEN","Sub-Saharan Africa (all income levels)",1084357
+"KG","Kyrgyz Republic",3.44079642260338,2015,"KGZ","Europe & Central Asia (all income levels)",204382
+"KH","Cambodia",0.474794450779274,2015,"KHM","East Asia & Pacific (all income levels)",73963
+"KI","Kiribati",2.80458625014454,2015,"KIR","East Asia & Pacific (all income levels)",3153
+"KM","Comoros",1.59231629704974,2015,"COM","Sub-Saharan Africa (all income levels)",12555
+"KN","St. Kitts and Nevis",13.3934355430792,2015,"KNA","Latin America & Caribbean (all income levels)",7443
+"KP","Korea, Dem. People’s Rep.",0.192635219027453,2015,NA,NA,48458
+"KR","Korea, Rep.",2.63915935436429,2015,"KOR","East Asia & Pacific (all income levels)",1327324
+"KW","Kuwait",73.6395507326993,2015,"KWT","Middle East & North Africa (all income levels)",2866136
+"KY","Cayman Islands",39.5650941351076,2015,"CYM","Latin America & Caribbean (all income levels)",23726
+"KZ","Kazakhstan",20.1233050855632,2015,"KAZ","Europe & Central Asia (all income levels)",3546778
+"LA","Lao PDR",0.327020358502169,2015,"LAO","East Asia & Pacific (all income levels)",22244
+"LB","Lebanon",34.1456803007755,2015,"LBN","Middle East & North Africa (all income levels)",1997776
+"LC","St. Lucia",6.90328055827329,2015,"LCA","Latin America & Caribbean (all income levels)",12771
+"LI","Liechtenstein",62.5962537635555,2015,"LIE","Europe & Central Asia (all income levels)",23493
+"LK","Sri Lanka",0.186850018416597,2015,"LKA","South Asia",38706
+"LR","Liberia",2.52649198234771,2015,"LBR","Sub-Saharan Africa (all income levels)",113779
+"LS","Lesotho",0.307818842147762,2015,"LSO","Sub-Saharan Africa (all income levels)",6572
+"LT","Lithuania",4.72608962255138,2015,"LTU","Europe & Central Asia (all income levels)",136036
+"LU","Luxembourg",43.9641339422687,2015,"LUX","Europe & Central Asia (all income levels)",249325
+"LV","Latvia",13.3532402640341,2015,"LVA","Europe & Central Asia (all income levels)",263126
+"LY","Libya",12.2824498704933,2015,"LBY","Middle East & North Africa (all income levels)",771146
+"MA","Morocco",0.257467738138459,2015,"MAR","Middle East & North Africa (all income levels)",88511
+"MC","Monaco",55.7684662479129,2015,"MCO","Europe & Central Asia (all income levels)",21042
+"MD","Moldova",3.51210659793059,2015,"MDA","Europe & Central Asia (all income levels)",142904
+"ME","Montenegro",13.1900776789324,2015,"MNE","Europe & Central Asia (all income levels)",82541
+"MG","Madagascar",0.132347777361949,2015,"MDG","Sub-Saharan Africa (all income levels)",32075
+"MH","Marshall Islands",6.19704489272168,2015,"MHL","East Asia & Pacific (all income levels)",3284
+"MK","Macedonia, FYR",6.28977417338761,2015,"MKD","Europe & Central Asia (all income levels)",130730
+"ML","Mali",2.06335973795908,2015,"MLI","Sub-Saharan Africa (all income levels)",363145
+"MM","Myanmar",0.13601460292319,2015,"MMR","East Asia & Pacific (all income levels)",73308
+"MN","Mongolia",0.595444478012824,2015,"MNG","East Asia & Pacific (all income levels)",17620
+"MO","Macao SAR, China",58.321902771585,2015,"MAC","East Asia & Pacific (all income levels)",342703
+"MP","Northern Mariana Islands",39.3099691301979,2015,"MNP","East Asia & Pacific (all income levels)",21648
+"MR","Mauritania",3.39667673329787,2015,"MRT","Sub-Saharan Africa (all income levels)",138162
+"MT","Malta",9.8984880693625,2015,"MLT","Middle East & North Africa (all income levels)",41442
+"MU","Mauritius",2.24510921983142,2015,"MUS","Sub-Saharan Africa (all income levels)",28585
+"MV","Maldives",25.8721817536855,2015,"MDV","South Asia",94086
+"MW","Malawi",1.2498117945782,2015,"MWI","Sub-Saharan Africa (all income levels)",215158
+"MX","Mexico",0.939364727416811,2015,"MEX","Latin America & Caribbean (all income levels)",1193155
+"MY","Malaysia",8.28934891611083,2015,"MYS","East Asia & Pacific (all income levels)",2514243
+"MZ","Mozambique",0.796801385438194,2015,"MOZ","Sub-Saharan Africa (all income levels)",222928
+"NA","Namibia",3.81840143482876,2015,"NAM","Sub-Saharan Africa (all income levels)",93888
+"NC","New Caledonia",24.4339041798737,2015,"NCL","East Asia & Pacific (all income levels)",64290
+"NE","Niger",0.951072208218253,2015,"NER","Sub-Saharan Africa (all income levels)",189255
+"NG","Nigeria",0.658124087599013,2015,"NGA","Sub-Saharan Africa (all income levels)",1199115
+"NI","Nicaragua",0.66198270577991,2015,"NIC","Latin America & Caribbean (all income levels)",40262
+"NL","Netherlands",11.6956827411211,2015,"NLD","Europe & Central Asia (all income levels)",1979486
+"NO","Norway",14.2356111639164,2015,"NOR","Europe & Central Asia (all income levels)",741813
+"NP","Nepal",1.81764555283951,2015,"NPL","South Asia",518278
+"NR","Nauru",31.089806300137,2015,NA,NA,3178
+"NZ","New Zealand",22.95970035283,2015,"NZL","East Asia & Pacific (all income levels)",1039736
+"OE","OECD members",10.0370878213971,2015,"OED","Aggregates",128022491
+"OM","Oman",41.085873617455,2015,"OMN","Middle East & North Africa (all income levels)",1844978
+"PA","Panama",4.70102752739085,2015,"PAN","Latin America & Caribbean (all income levels)",184710
+"PE","Peru",0.289645140800474,2015,"PER","Latin America & Caribbean (all income levels)",90881
+"PF","French Polynesia",10.6300660621578,2015,"PYF","East Asia & Pacific (all income levels)",30058
+"PG","Papua New Guinea",0.338376608624312,2015,"PNG","East Asia & Pacific (all income levels)",25782
+"PH","Philippines",0.210390539089137,2015,"PHL","East Asia & Pacific (all income levels)",211862
+"PK","Pakistan",1.92084606074688,2015,"PAK","South Asia",3628956
+"PL","Poland",1.60418083655994,2015,"POL","Europe & Central Asia (all income levels)",619403
+"PR","Puerto Rico",7.46549639203331,2015,"PRI","Latin America & Caribbean (all income levels)",274972
+"PS","West Bank and Gaza",5.4730397522441,2015,"PSE","Middle East & North Africa (all income levels)",255507
+"PT","Portugal",8.0895935893659,2015,"PRT","Europe & Central Asia (all income levels)",837257
+"PW","Palau",26.6027899112301,2015,"PLW","East Asia & Pacific (all income levels)",5664
+"PY","Paraguay",2.35666668624757,2015,"PRY","Latin America & Caribbean (all income levels)",156462
+"QA","Qatar",75.4976278935561,2015,"QAT","Middle East & North Africa (all income levels)",1687640
+"RO","Romania",1.16313480315329,2015,"ROU","Europe & Central Asia (all income levels)",226943
+"RS","Serbia",9.12262208400769,2015,"SRB","Europe & Central Asia (all income levels)",807441
+"RU","Russian Federation",8.11621785991527,2015,"RUS","Europe & Central Asia (all income levels)",11643276
+"RW","Rwanda",3.80308098441419,2015,"RWA","Sub-Saharan Africa (all income levels)",441525
+"S1","Small states",12.0774878057944,2015,"SST","Aggregates",4583559
+"S2","Pacific island small states",2.05687487213383,2015,"PSS","Aggregates",48359
+"S3","Caribbean small states",4.95112412760114,2015,"CSS","Aggregates",349562
+"S4","Other small states",14.6531546566041,2015,"OSS","Aggregates",4185638
+"SA","Saudi Arabia",32.2949424946542,2015,"SAU","Middle East & North Africa (all income levels)",10185945
+"SB","Solomon Islands",0.442947201036342,2015,"SLB","East Asia & Pacific (all income levels)",2585
+"SC","Seychelles",13.2589068217392,2015,"SYC","Sub-Saharan Africa (all income levels)",12791
+"SD","Sudan",1.2513445422805,2015,"SDN","Sub-Saharan Africa (all income levels)",503477
+"SE","Sweden",16.7675587503806,2015,"SWE","Europe & Central Asia (all income levels)",1639771
+"SG","Singapore",45.3917919104027,2015,"SGP","East Asia & Pacific (all income levels)",2543638
+"SI","Slovenia",11.4129640933173,2015,"SVN","Europe & Central Asia (all income levels)",235966
+"SK","Slovak Republic",3.26541789940692,2015,"SVK","Europe & Central Asia (all income levels)",177190
+"SL","Sierra Leone",1.41345729487955,2015,"SLE","Sub-Saharan Africa (all income levels)",91213
+"SM","San Marino",14.8422013152513,2015,"SMR","Europe & Central Asia (all income levels)",4717
+"SN","Senegal",1.73995141736156,2015,"SEN","Sub-Saharan Africa (all income levels)",263242
+"SO","Somalia",0.234455883618068,2015,"SOM","Sub-Saharan Africa (all income levels)",25291
+"SR","Suriname",8.62581150145034,2015,"SUR","Latin America & Caribbean (all income levels)",46836
+"SS","South Sudan",6.67856203968099,2015,"SSD","Sub-Saharan Africa (all income levels)",824122
+"ST","Sao Tome and Principe",1.25772285966461,2015,"STP","Sub-Saharan Africa (all income levels)",2394
+"SV","El Salvador",0.686271613393632,2015,"SLV","Latin America & Caribbean (all income levels)",42045
+"SX","Sint Maarten (Dutch part)",70.4477997160924,2015,"SXM","Latin America & Caribbean (all income levels)",27295
+"SY","Syrian Arab Republic",4.73013438841734,2015,"SYR","Middle East & North Africa (all income levels)",875189
+"SZ","Swaziland",2.45374795061268,2015,"SWZ","Sub-Saharan Africa (all income levels)",31579
+"T2","Latin America & the Caribbean (IDA & IBRD countries)",1.35413267106923,2015,NA,NA,8353697
+"T3","Middle East & North Africa (IDA & IBRD countries)",3.11930225970191,2015,NA,NA,11172166
+"T4","East Asia & Pacific (IDA & IBRD countries)",0.412299055771009,2015,NA,NA,8291158
+"T5","South Asia (IDA & IBRD)",0.653007516159785,2015,NA,NA,11377262
+"T6","Sub-Saharan Africa (IDA & IBRD countries)",1.86846933554572,2015,NA,NA,18676830
+"T7","Europe & Central Asia (IDA & IBRD countries)",6.47593328595,2015,NA,NA,29325118
+"TC","Turks and Caicos Islands",34.0371006727045,2015,"TCA","Latin America & Caribbean (all income levels)",11688
+"TD","Chad",3.68277137079953,2015,"TCD","Sub-Saharan Africa (all income levels)",516968
+"TG","Togo",3.79000676014412,2015,"TGO","Sub-Saharan Africa (all income levels)",276844
+"TH","Thailand",5.75823265195895,2015,"THA","East Asia & Pacific (all income levels)",3913258
+"TJ","Tajikistan",3.24291089626031,2015,"TJK","Europe & Central Asia (all income levels)",275059
+"TL","Timor-Leste",0.914442948601621,2015,"TLS","East Asia & Pacific (all income levels)",10834
+"TM","Turkmenistan",3.65471158287463,2015,"TKM","Europe & Central Asia (all income levels)",196386
+"TN","Tunisia",0.503849717164906,2015,"TUN","Middle East & North Africa (all income levels)",56701
+"TO","Tonga",5.39794668927192,2015,"TON","East Asia & Pacific (all income levels)",5731
+"TR","Turkey",3.76900110251173,2015,"TUR","Europe & Central Asia (all income levels)",2964916
+"TT","Trinidad and Tobago",3.66763032980219,2015,"TTO","Latin America & Caribbean (all income levels)",49883
+"TV","Tuvalu",1.42194433239209,2015,"TUV","East Asia & Pacific (all income levels)",141
+"TZ","Tanzania",0.488535530485828,2015,"TZA","Sub-Saharan Africa (all income levels)",261222
+"UA","Ukraine",10.7864611551484,2015,"UKR","Europe & Central Asia (all income levels)",4834898
+"UG","Uganda",1.92012616805897,2015,"UGA","Sub-Saharan Africa (all income levels)",749471
+"US","United States",14.4906535240608,2015,"USA","North America",46627102
+"UY","Uruguay",2.09231674852946,2015,"URY","Latin America & Caribbean (all income levels)",71799
+"UZ","Uzbekistan",3.91690323992971,2015,"UZB","Europe & Central Asia (all income levels)",1170899
+"V1","Pre-demographic dividend",1.57001445313003,2015,NA,NA,13348827
+"V2","Early-demographic dividend",1.62490458838485,2015,NA,NA,50581758
+"V3","Late-demographic dividend",2.06332626197468,2015,NA,NA,46599687
+"V4","Post-demographic dividend",12.0903523675145,2015,NA,NA,132210514
+"VC","St. Vincent and the Grenadines",4.18135974128008,2015,"VCT","Latin America & Caribbean (all income levels)",4577
+"VE","Venezuela, RB",4.51473657184212,2015,"VEN","Latin America & Caribbean (all income levels)",1404448
+"VG","British Virgin Islands",57.4692034399177,2015,NA,NA,17308
+"VI","Virgin Islands (U.S.)",53.3638784092727,2015,"VIR","Latin America & Caribbean (all income levels)",56721
+"VN","Vietnam",0.07789713082094,2015,"VNM","East Asia & Pacific (all income levels)",72793
+"VU","Vanuatu",1.20422290404002,2015,"VUT","East Asia & Pacific (all income levels)",3187
+"WS","Samoa",2.55087254435175,2015,"WSM","East Asia & Pacific (all income levels)",4929
+"XC","Euro area",12.2152234843058,2015,"EMU","Aggregates",40935248
+"XD","High income",13.5783363779277,2015,"HIC","Aggregates",157494832
+"XE","Heavily indebted poor countries (HIPC)",1.65599126633733,2015,"HPC","Aggregates",11941421
+"XF","IBRD only",1.39314034462685,2015,NA,NA,63369756
+"XG","IDA total",1.45648241801197,2015,NA,NA,23826475
+"XH","IDA blend",1.31575145712466,2015,NA,NA,7670493
+"XI","IDA only",1.53473096522255,2015,NA,NA,16155982
+"XJ","Latin America & Caribbean (excluding high income)",1.00605850933071,2015,NA,NA,5654087
+"XL","Least developed countries: UN classification",1.25252995390051,2015,"LDC","Aggregates",11951316
+"XM","Low income",1.46997392492944,2015,"LIC","Aggregates",9382642
+"XN","Lower middle income",0.92756425415657,2015,"LMC","Aggregates",27073563
+"XO","Low & middle income",1.36688216265854,2015,"LMY","Aggregates",83611547
+"XP","Middle income",1.35486559158855,2015,"MIC","Aggregates",74228905
+"XQ","Middle East & North Africa (excluding high income)",3.14801071281816,2015,NA,NA,11427673
+"XT","Upper middle income",1.84504606542733,2015,"UMC","Aggregates",47155342
+"XU","North America",15.2271585936758,2015,"NAC","Aggregates",54481730
+"YE","Yemen, Rep.",1.28252922839207,2015,"YEM","Middle East & North Africa (all income levels)",344131
+"Z4","East Asia & Pacific",1.1308258373664,2015,NA,NA,25557256
+"Z7","Europe & Central Asia",9.46850774353836,2015,NA,NA,85288550
+"ZA","South Africa",5.76709044891315,2015,"ZAF","Sub-Saharan Africa (all income levels)",3142511
+"ZF","Sub-Saharan Africa (excluding high income)",1.86741210281195,2015,NA,NA,18664039
+"ZG","Sub-Saharan Africa",1.86846933554572,2015,NA,NA,18676830
+"ZJ","Latin America & Caribbean",1.41072816966701,2015,NA,NA,8946249
+"ZM","Zambia",0.789025650319302,2015,"ZMB","Sub-Saharan Africa (all income levels)",127915
+"ZQ","Middle East & North Africa",9.1803711992272,2015,NA,NA,38864804
+"ZT","IDA & IBRD total",1.40993695786816,2015,NA,NA,87196231
+"ZW","Zimbabwe",2.55638252510727,2015,"ZWE","Sub-Saharan Africa (all income levels)",398866
+"1A","Arab World",8.08204332914369,2010,"ARB","Aggregates",28555399
+"1W","World",3.20858917660199,2010,"WLD","Aggregates",221233994
+"4E","East Asia & Pacific (excluding high income)",0.376627176795327,2010,NA,NA,7399332
+"7E","Europe & Central Asia (excluding high income)",6.48537599424211,2010,NA,NA,25929753
+"8S","South Asia",0.710540270588026,2010,"SAS","Aggregates",11565030
+"AD","Andorra",61.6602897451995,2010,"AND","Europe & Central Asia (all income levels)",52053
+"AE","United Arab Emirates",87.8402339265255,2010,"ARE","Middle East & North Africa (all income levels)",7316611
+"AF","Afghanistan",0.365657832373532,2010,"AFG","South Asia",102246
+"AG","Antigua and Barbuda",30.2775325851455,2010,"ATG","Latin America & Caribbean (all income levels)",26412
+"AL","Albania",1.8189568635262,2010,"ALB","Europe & Central Asia (all income levels)",52784
+"AM","Armenia",7.47630501272821,2010,"ARM","Europe & Central Asia (all income levels)",221560
+"AO","Angola",0.36074065005042,2010,"AGO","Sub-Saharan Africa (all income levels)",76549
+"AR","Argentina",4.38095838778833,2010,"ARG","Latin America & Caribbean (all income levels)",1805957
+"AS","American Samoa",42.3376950176145,2010,"ASM","East Asia & Pacific (all income levels)",23555
+"AT","Austria",15.2048871387536,2010,"AUT","Europe & Central Asia (all income levels)",1275992
+"AU","Australia",26.5443142431553,2010,"AUS","East Asia & Pacific (all income levels)",5882980
+"AW","Aruba",33.7874149827259,2010,"ABW","Latin America & Caribbean (all income levels)",34327
+"AZ","Azerbaijan",3.04290391106797,2010,"AZE","Europe & Central Asia (all income levels)",276901
+"B8","Central Europe and the Baltics",3.22912906734273,2010,NA,NA,3374888
+"BA","Bosnia and Herzegovina",1.01145737783482,2010,"BIH","Europe & Central Asia (all income levels)",38792
+"BB","Barbados",11.741413476603,2010,"BRB","Latin America & Caribbean (all income levels)",32825
+"BD","Bangladesh",0.887465112122783,2010,"BGD","South Asia",1345546
+"BE","Belgium",9.63262689092329,2010,"BEL","Europe & Central Asia (all income levels)",1052844
+"BF","Burkina Faso",4.31103604603512,2010,"BFA","Sub-Saharan Africa (all income levels)",673904
+"BG","Bulgaria",1.02988985050822,2010,"BGR","Europe & Central Asia (all income levels)",76287
+"BH","Bahrain",52.1561952210345,2010,"BHR","Middle East & North Africa (all income levels)",657856
+"BI","Burundi",2.48658800012726,2010,"BDI","Sub-Saharan Africa (all income levels)",235259
+"BJ","Benin",2.20054095786262,2010,"BEN","Sub-Saharan Africa (all income levels)",209267
+"BM","Bermuda",29.5274728711261,2010,"BMU","North America",18884
+"BN","Brunei Darussalam",25.5750034324768,2010,"BRN","East Asia & Pacific (all income levels)",100587
+"BO","Bolivia",1.23858606033628,2010,"BOL","Latin America & Caribbean (all income levels)",122846
+"BR","Brazil",0.298351263974025,2010,"BRA","Latin America & Caribbean (all income levels)",592568
+"BS","Bahamas, The",15.1694703877172,2010,"BHS","Latin America & Caribbean (all income levels)",54736
+"BT","Bhutan",6.72270307644888,2010,"BTN","South Asia",48420
+"BW","Botswana",5.9043934777821,2010,"BWA","Sub-Saharan Africa (all income levels)",120912
+"BY","Belarus",11.4871890605704,2010,"BLR","Europe & Central Asia (all income levels)",1090378
+"BZ","Belize",14.4150194801762,2010,"BLZ","Latin America & Caribbean (all income levels)",46360
+"CA","Canada",20.5450110095849,2010,"CAN","North America",7011226
+"CD","Congo, Dem. Rep.",0.893177895255218,2010,"COD","Sub-Saharan Africa (all income levels)",588950
+"CF","Central African Republic",2.10273493224818,2010,"CAF","Sub-Saharan Africa (all income levels)",93466
+"CG","Congo, Rep.",10.3207316731258,2010,"COG","Sub-Saharan Africa (all income levels)",419649
+"CH","Switzerland",26.5011556044581,2010,"CHE","Europe & Central Asia (all income levels)",2075182
+"CI","Cote d'Ivoire",10.407388702806,2010,"CIV","Sub-Saharan Africa (all income levels)",2095185
+"CL","Chile",2.17123101856662,2010,"CHL","Latin America & Caribbean (all income levels)",369436
+"CM","Cameroon",1.40399052658132,2010,"CMR","Sub-Saharan Africa (all income levels)",289091
+"CN","China",0.0633766452975853,2010,"CHN","East Asia & Pacific (all income levels)",849861
+"CO","Colombia",0.270636192032419,2010,"COL","Latin America & Caribbean (all income levels)",124271
+"CR","Costa Rica",8.91924423461473,2010,"CRI","Latin America & Caribbean (all income levels)",405404
+"CU","Cuba",0.131038430481849,2010,"CUB","Latin America & Caribbean (all income levels)",14818
+"CV","Cabo Verde",2.93099826868606,2010,NA,NA,14373
+"CW","Curacao",23.4592324108262,2010,"CUW","Latin America & Caribbean (all income levels)",34627
+"CY","Cyprus",17.0268690794928,2010,"CYP","Europe & Central Asia (all income levels)",187923
+"CZ","Czech Republic",3.78604264341224,2010,"CZE","Europe & Central Asia (all income levels)",397785
+"DE","Germany",14.4286016089924,2010,"DEU","Europe & Central Asia (all income levels)",11605690
+"DJ","Djibouti",12.2261381171446,2010,"DJI","Middle East & North Africa (all income levels)",101575
+"DK","Denmark",9.18291776249834,2010,"DNK","Europe & Central Asia (all income levels)",509740
+"DM","Dominica",8.1006646338893,2010,"DMA","Latin America & Caribbean (all income levels)",5765
+"DO","Dominican Republic",3.97778011944454,2010,"DOM","Latin America & Caribbean (all income levels)",393720
+"DZ","Algeria",0.67977278044533,2010,"DZA","Middle East & North Africa (all income levels)",244964
+"EC","Ecuador",2.17859196560599,2010,"ECU","Latin America & Caribbean (all income levels)",325366
+"EE","Estonia",16.3570151844209,2010,"EST","Europe & Central Asia (all income levels)",217890
+"EG","Egypt, Arab Rep.",0.360446632326273,2010,"EGY","Middle East & North Africa (all income levels)",295714
+"ER","Eritrea",0.334267017850319,2010,"ERI","Sub-Saharan Africa (all income levels)",15676
+"ES","Spain",13.4761028681228,2010,"ESP","Europe & Central Asia (all income levels)",6280065
+"ET","Ethiopia",0.648364822592643,2010,"ETH","Sub-Saharan Africa (all income levels)",567720
+"EU","European Union",10.2450636065367,2010,"EUU","Aggregates",51301015
+"F1","Fragile and conflict affected situations",2.30092990748644,2010,NA,NA,9920683
+"FI","Finland",4.62274947542641,2010,"FIN","Europe & Central Asia (all income levels)",248135
+"FJ","Fiji",1.55252851321934,2010,"FJI","East Asia & Pacific (all income levels)",13351
+"FM","Micronesia, Fed. Sts.",2.70703249404067,2010,"FSM","East Asia & Pacific (all income levels)",2805
+"FO","Faroe Islands",10.492721395186,2010,NA,NA,5096
+"FR","France",11.430036776973,2010,"FRA","Europe & Central Asia (all income levels)",7196481
+"GA","Gabon",15.8237436573243,2010,"GAB","Sub-Saharan Africa (all income levels)",243992
+"GB","United Kingdom",12.1252950809708,2010,"GBR","Europe & Central Asia (all income levels)",7604583
+"GD","Grenada",6.6681314902032,2010,"GRD","Latin America & Caribbean (all income levels)",6980
+"GE","Georgia",4.28697273402332,2010,"GEO","Europe & Central Asia (all income levels)",182202
+"GH","Ghana",1.3858898201617,2010,"GHA","Sub-Saharan Africa (all income levels)",337017
+"GI","Gibraltar",33.7400754913445,2010,"GIB","Europe & Central Asia (all income levels)",10369
+"GL","Greenland",11.0105047218194,2010,"GRL","Europe & Central Asia (all income levels)",6226
+"GM","Gambia, The",10.9724028678052,2010,"GMB","Sub-Saharan Africa (all income levels)",185763
+"GN","Guinea",1.86254484260751,2010,"GIN","Sub-Saharan Africa (all income levels)",205111
+"GQ","Equatorial Guinea",1.18812696408722,2010,"GNQ","Sub-Saharan Africa (all income levels)",8658
+"GR","Greece",11.3598566550025,2010,"GRC","Europe & Central Asia (all income levels)",1269749
+"GT","Guatemala",0.450602931892124,2010,"GTM","Latin America & Caribbean (all income levels)",66384
+"GU","Guam",47.3005519317612,2010,"GUM","East Asia & Pacific (all income levels)",75416
+"GW","Guinea-Bissau",1.28876829951854,2010,"GNB","Sub-Saharan Africa (all income levels)",21061
+"GY","Guyana",1.74232307974121,2010,"GUY","Latin America & Caribbean (all income levels)",13126
+"HK","Hong Kong SAR, China",39.7500847206791,2010,"HKG","East Asia & Pacific (all income levels)",2779950
+"HN","Honduras",0.363652113074911,2010,"HND","Latin America & Caribbean (all income levels)",27288
+"HR","Croatia",13.280619957488,2010,"HRV","Europe & Central Asia (all income levels)",573248
+"HT","Haiti",0.351053445346957,2010,"HTI","Latin America & Caribbean (all income levels)",35104
+"HU","Hungary",4.35978033343808,2010,"HUN","Europe & Central Asia (all income levels)",436616
+"ID","Indonesia",0.126407039657274,2010,"IDN","East Asia & Pacific (all income levels)",305416
+"IE","Ireland",15.8217274297246,2010,"IRL","Europe & Central Asia (all income levels)",730542
+"IL","Israel",26.2873081227238,2010,"ISR","Middle East & North Africa (all income levels)",1950615
+"IM","Isle of Man",51.5220510631233,2010,"IMN","Europe & Central Asia (all income levels)",43447
+"IN","India",0.441598735186028,2010,"IND","South Asia",5436012
+"IQ","Iraq",0.380291585930821,2010,"IRQ","Middle East & North Africa (all income levels)",117389
+"IR","Iran, Islamic Rep.",3.71910512401908,2010,"IRN","Middle East & North Africa (all income levels)",2761561
+"IS","Iceland",11.0334484124738,2010,"ISL","Europe & Central Asia (all income levels)",35091
+"IT","Italy",9.71318439967291,2010,"ITA","Europe & Central Asia (all income levels)",5787893
+"JG","Channel Islands",48.6148273938953,2010,"CHI","Europe & Central Asia (all income levels)",77581
+"JM","Jamaica",0.863729104902028,2010,"JAM","Latin America & Caribbean (all income levels)",23677
+"JO","Jordan",41.7769218117704,2010,"JOR","Middle East & North Africa (all income levels)",2722983
+"JP","Japan",1.67621294290106,2010,"JPN","East Asia & Pacific (all income levels)",2134151
+"KE","Kenya",2.29853155523763,2010,"KEN","Sub-Saharan Africa (all income levels)",926959
+"KG","Kyrgyz Republic",4.23658452719127,2010,"KGZ","Europe & Central Asia (all income levels)",231511
+"KH","Cambodia",0.570727950527118,2010,"KHM","East Asia & Pacific (all income levels)",81977
+"KI","Kiribati",2.79401449614216,2010,"KIR","East Asia & Pacific (all income levels)",2868
+"KM","Comoros",1.80593821338352,2010,"COM","Sub-Saharan Africa (all income levels)",12618
+"KN","St. Kitts and Nevis",13.8390128361858,2010,"KNA","Latin America & Caribbean (all income levels)",7245
+"KP","Korea, Dem. People’s Rep.",0.179628943173663,2010,NA,NA,44010
+"KR","Korea, Rep.",1.87263033656867,2010,"KOR","East Asia & Pacific (all income levels)",919275
+"KW","Kuwait",61.1718750255354,2010,"KWT","Middle East & North Africa (all income levels)",1871537
+"KY","Cayman Islands",43.3389180132951,2010,"CYM","Latin America & Caribbean (all income levels)",24057
+"KZ","Kazakhstan",20.4444845273853,2010,"KAZ","Europe & Central Asia (all income levels)",3334623
+"LA","Lao PDR",0.338389124012226,2010,"LAO","East Asia & Pacific (all income levels)",21185
+"LB","Lebanon",18.9215006331338,2010,"LBN","Middle East & North Africa (all income levels)",820655
+"LC","St. Lucia",6.82085942828796,2010,"LCA","Latin America & Caribbean (all income levels)",12100
+"LI","Liechtenstein",61.5889293196604,2010,"LIE","Europe & Central Asia (all income levels)",22342
+"LK","Sri Lanka",0.192853810683187,2010,"LKA","South Asia",38959
+"LR","Liberia",2.50452881386764,2010,"LBR","Sub-Saharan Africa (all income levels)",99129
+"LS","Lesotho",0.319011472277237,2010,"LSO","Sub-Saharan Africa (all income levels)",6414
+"LT","Lithuania",5.14827072195617,2010,"LTU","Europe & Central Asia (all income levels)",160772
+"LU","Luxembourg",32.1215856220552,2010,"LUX","Europe & Central Asia (all income levels)",163142
+"LV","Latvia",15.0099568576033,2010,"LVA","Europe & Central Asia (all income levels)",313786
+"LY","Libya",10.9165508641736,2010,"LBY","Middle East & North Africa (all income levels)",683998
+"MA","Morocco",0.220847067431313,2010,"MAR","Middle East & North Africa (all income levels)",70909
+"MC","Monaco",57.3537793459085,2010,"MCO","Europe & Central Asia (all income levels)",21132
+"MD","Moldova",3.86017030796799,2010,"MDA","Europe & Central Asia (all income levels)",157668
+"ME","Montenegro",12.6226782774233,2010,"MNE","Europe & Central Asia (all income levels)",78507
+"MG","Madagascar",0.137123537657288,2010,"MDG","Sub-Saharan Africa (all income levels)",28905
+"MH","Marshall Islands",5.89188982986191,2010,"MHL","East Asia & Pacific (all income levels)",3089
+"MK","Macedonia, FYR",6.28870713033039,2010,"MKD","Europe & Central Asia (all income levels)",129701
+"ML","Mali",2.21929618786116,2010,"MLI","Sub-Saharan Africa (all income levels)",336607
+"MM","Myanmar",0.147708388838671,2010,"MMR","East Asia & Pacific (all income levels)",76414
+"MN","Mongolia",0.592076329591246,2010,"MNG","East Asia & Pacific (all income levels)",16061
+"MO","Macao SAR, China",59.5754789329363,2010,"MAC","East Asia & Pacific (all income levels)",318506
+"MP","Northern Mariana Islands",44.8718900854066,2010,"MNP","East Asia & Pacific (all income levels)",24168
+"MR","Mauritania",2.3578270312413,2010,"MRT","Sub-Saharan Africa (all income levels)",84679
+"MT","Malta",8.02884988739613,2010,"MLT","Middle East & North Africa (all income levels)",33084
+"MU","Mauritius",1.99014224116171,2010,"MUS","Sub-Saharan Africa (all income levels)",24836
+"MV","Maldives",22.1315492745997,2010,"MDV","South Asia",73604
+"MW","Malawi",1.47410016531003,2010,"MWI","Sub-Saharan Africa (all income levels)",217722
+"MX","Mexico",0.817364770549705,2010,"MEX","Latin America & Caribbean (all income levels)",969538
+"MY","Malaysia",8.5563790252316,2010,"MYS","East Asia & Pacific (all income levels)",2406011
+"MZ","Mozambique",0.882397793849275,2010,"MOZ","Sub-Saharan Africa (all income levels)",214612
+"NA","Namibia",4.66826188217499,2010,"NAM","Sub-Saharan Africa (all income levels)",102405
+"NC","New Caledonia",24.8261584363393,2010,"NCL","East Asia & Pacific (all income levels)",61158
+"NE","Niger",0.776234210799295,2010,"NER","Sub-Saharan Africa (all income levels)",126464
+"NG","Nigeria",0.577148809185465,2010,"NGA","Sub-Saharan Africa (all income levels)",920118
+"NI","Nicaragua",0.650658920038301,2010,"NIC","Latin America & Caribbean (all income levels)",37333
+"NL","Netherlands",11.0182615941693,2010,"NLD","Europe & Central Asia (all income levels)",1832510
+"NO","Norway",10.7702303562013,2010,"NOR","Europe & Central Asia (all income levels)",526799
+"NP","Nepal",2.15306942164935,2010,"NPL","South Asia",578657
+"NR","Nauru",21.0673316708229,2010,NA,NA,2112
+"NZ","New Zealand",21.6854462103347,2010,"NZL","East Asia & Pacific (all income levels)",947443
+"OE","OECD members",9.54261168016042,2010,"OED","Aggregates",118172346
+"OM","Oman",27.7272809110294,2010,"OMN","Middle East & North Africa (all income levels)",816221
+"PA","Panama",4.34494515407515,2010,"PAN","Latin America & Caribbean (all income levels)",157309
+"PE","Peru",0.28619533892356,2010,"PER","Latin America & Caribbean (all income levels)",84066
+"PF","French Polynesia",11.8031074552814,2010,"PYF","East Asia & Pacific (all income levels)",31640
+"PG","Papua New Guinea",0.371287869748991,2010,"PNG","East Asia & Pacific (all income levels)",25424
+"PH","Philippines",0.224206214299477,2010,"PHL","East Asia & Pacific (all income levels)",208599
+"PK","Pakistan",2.3179811700175,2010,"PAK","South Asia",3941586
+"PL","Poland",1.66538508340782,2010,"POL","Europe & Central Asia (all income levels)",642417
+"PR","Puerto Rico",8.22091770402281,2010,"PRI","Latin America & Caribbean (all income levels)",304969
+"PS","West Bank and Gaza",6.3417535477465,2010,"PSE","Middle East & North Africa (all income levels)",258032
+"PT","Portugal",7.20677134659702,2010,"PRT","Europe & Central Asia (all income levels)",762825
+"PW","Palau",28.2706399609184,2010,"PLW","East Asia & Pacific (all income levels)",5787
+"PY","Paraguay",2.58135547612296,2010,"PRY","Latin America & Caribbean (all income levels)",160299
+"QA","Qatar",82.4923407530842,2010,"QAT","Middle East & North Africa (all income levels)",1456413
+"RO","Romania",0.76842822234455,2010,"ROU","Europe & Central Asia (all income levels)",155982
+"RS","Serbia",9.11868644888214,2010,"SRB","Europe & Central Asia (all income levels)",826066
+"RU","Russian Federation",7.81982303355397,2010,"RUS","Europe & Central Asia (all income levels)",11194710
+"RW","Rwanda",4.24325864762117,2010,"RWA","Sub-Saharan Africa (all income levels)",436787
+"S1","Small states",11.8931827506321,2010,"SST","Aggregates",4159671
+"S2","Pacific island small states",2.08286888837539,2010,"PSS","Aggregates",46061
+"S3","Caribbean small states",4.68613606558908,2010,"CSS","Aggregates",321650
+"S4","Other small states",14.6312650329183,2010,"OSS","Aggregates",3791960
+"SA","Saudi Arabia",30.0098320982069,2010,"SAU","Middle East & North Africa (all income levels)",8429956
+"SB","Solomon Islands",0.524538320755183,2010,"SLB","East Asia & Pacific (all income levels)",2760
+"SC","Seychelles",12.268884090201,2010,"SYC","Sub-Saharan Africa (all income levels)",11420
+"SD","Sudan",1.60145325120099,2010,"SDN","Sub-Saharan Africa (all income levels)",578363
+"SE","Sweden",14.7610867573261,2010,"SWE","Europe & Central Asia (all income levels)",1384929
+"SG","Singapore",42.6227726497604,2010,"SGP","East Asia & Pacific (all income levels)",2164794
+"SI","Slovenia",12.3648464296851,2010,"SVN","Europe & Central Asia (all income levels)",253786
+"SK","Slovak Republic",2.70615525062809,2010,"SVK","Europe & Central Asia (all income levels)",146319
+"SL","Sierra Leone",1.68721699225506,2010,"SLE","Sub-Saharan Africa (all income levels)",97452
+"SM","San Marino",14.3336591723688,2010,"SMR","Europe & Central Asia (all income levels)",4399
+"SN","Senegal",1.97650791773982,2010,"SEN","Sub-Saharan Africa (all income levels)",256092
+"SO","Somalia",0.25042492397498,2010,"SOM","Sub-Saharan Africa (all income levels)",23995
+"SR","Suriname",7.66451602942056,2010,"SUR","Latin America & Caribbean (all income levels)",39713
+"SS","South Sudan",2.56456661006963,2010,"SSD","Sub-Saharan Africa (all income levels)",257905
+"ST","Sao Tome and Principe",1.58005617977528,2010,"STP","Sub-Saharan Africa (all income levels)",2700
+"SV","El Salvador",0.667803188510155,2010,"SLV","Latin America & Caribbean (all income levels)",40324
+"SX","Sint Maarten (Dutch part)",79.0943396226415,2010,"SXM","Latin America & Caribbean (all income levels)",26200
+"SY","Syrian Arab Republic",8.02062604165651,2010,"SYR","Middle East & North Africa (all income levels)",1661922
+"SZ","Swaziland",2.55425144240279,2010,"SWZ","Sub-Saharan Africa (all income levels)",30476
+"T2","Latin America & the Caribbean (IDA & IBRD countries)",1.2633164307176,2010,NA,NA,7359053
+"T3","Middle East & North Africa (IDA & IBRD countries)",2.98987419292148,2010,NA,NA,9810679
+"T4","East Asia & Pacific (IDA & IBRD countries)",0.378019142988212,2010,NA,NA,7333879
+"T5","South Asia (IDA & IBRD)",0.710540270588026,2010,NA,NA,11565030
+"T6","Sub-Saharan Africa (IDA & IBRD countries)",1.73573293794107,2010,NA,NA,15198834
+"T7","Europe & Central Asia (IDA & IBRD countries)",6.13670908625072,2010,NA,NA,27145418
+"TC","Turks and Caicos Islands",35.0885683864098,2010,"TCA","Latin America & Caribbean (all income levels)",10875
+"TD","Chad",3.50462913928439,2010,"TCD","Sub-Saharan Africa (all income levels)",416924
+"TG","Togo",3.99417855305968,2010,"TGO","Sub-Saharan Africa (all income levels)",255262
+"TH","Thailand",4.83435770370382,2010,"THA","East Asia & Pacific (all income levels)",3224131
+"TJ","Tajikistan",3.66873058481902,2010,"TJK","Europe & Central Asia (all income levels)",278152
+"TL","Timor-Leste",1.03895293069296,2010,"TLS","East Asia & Pacific (all income levels)",10983
+"TM","Turkmenistan",3.92660048254709,2010,"TKM","Europe & Central Asia (all income levels)",197979
+"TN","Tunisia",0.405782618495348,2010,"TUN","Middle East & North Africa (all income levels)",43172
+"TO","Tonga",4.83130826286473,2010,"TON","East Asia & Pacific (all income levels)",5022
+"TR","Turkey",1.89050772436436,2010,"TUR","Europe & Central Asia (all income levels)",1367034
+"TT","Trinidad and Tobago",3.63121614041164,2010,"TTO","Latin America & Caribbean (all income levels)",48226
+"TV","Tuvalu",1.56711102065737,2010,"TUV","East Asia & Pacific (all income levels)",154
+"TZ","Tanzania",0.67603498689169,2010,"TZA","Sub-Saharan Africa (all income levels)",308600
+"UA","Ukraine",10.5564758567156,2010,"UKR","Europe & Central Asia (all income levels)",4818767
+"UG","Uganda",1.59628750032014,2010,"UGA","Sub-Saharan Africa (all income levels)",529160
+"US","United States",14.2584836388032,2010,"USA","North America",44183643
+"UY","Uruguay",2.26003685380632,2010,"URY","Latin America & Caribbean (all income levels)",76263
+"UZ","Uzbekistan",4.39855580602632,2010,"UZB","Europe & Central Asia (all income levels)",1220149
+"V1","Pre-demographic dividend",1.52078980812869,2010,NA,NA,11189410
+"V2","Early-demographic dividend",1.55566270166268,2010,NA,NA,45133896
+"V3","Late-demographic dividend",1.8492373870574,2010,NA,NA,40591170
+"V4","Post-demographic dividend",11.5506976261208,2010,NA,NA,123872097
+"VC","St. Vincent and the Grenadines",4.1027845878005,2010,"VCT","Latin America & Caribbean (all income levels)",4485
+"VE","Venezuela, RB",4.59201168999107,2010,"VEN","Latin America & Caribbean (all income levels)",1331488
+"VG","British Virgin Islands",57.1502038717261,2010,NA,NA,15558
+"VI","Virgin Islands (U.S.)",53.2834502077419,2010,"VIR","Latin America & Caribbean (all income levels)",56684
+"VN","Vietnam",0.0698931135375467,2010,"VNM","East Asia & Pacific (all income levels)",61756
+"VU","Vanuatu",1.26576921612025,2010,"VUT","East Asia & Pacific (all income levels)",2991
+"WS","Samoa",2.75333415757758,2010,"WSM","East Asia & Pacific (all income levels)",5122
+"XC","Euro area",11.8665220420664,2010,"EMU","Aggregates",39519428
+"XD","High income",12.7781773840385,2010,"HIC","Aggregates",144237465
+"XE","Heavily indebted poor countries (HIPC)",1.66325184576954,2010,"HPC","Aggregates",10450770
+"XF","IBRD only",1.30780257770255,2010,NA,NA,56788858
+"XG","IDA total",1.47689456846819,2010,NA,NA,21624035
+"XH","IDA blend",1.45258081173867,2010,NA,NA,7665884
+"XI","IDA only",1.4906174019034,2010,NA,NA,13958151
+"XJ","Latin America & Caribbean (excluding high income)",0.949647702018291,2010,NA,NA,5040332
+"XL","Least developed countries: UN classification",1.18242046199476,2010,"LDC","Aggregates",10018128
+"XM","Low income",1.35966246727442,2010,"LIC","Aggregates",7572319
+"XN","Lower middle income",1.01039790399167,2010,"LMC","Aggregates",27433710
+"XO","Low & middle income",1.30951587669571,2010,"LMY","Aggregates",75190572
+"XP","Middle income",1.3041131999615,2010,"MIC","Aggregates",67618253
+"XQ","Middle East & North Africa (excluding high income)",3.02835942077275,2010,NA,NA,10068711
+"XT","Upper middle income",1.62959177004075,2010,"UMC","Aggregates",40184543
+"XU","North America",14.8838728891318,2010,"NAC","Aggregates",51213753
+"YE","Yemen, Rep.",1.21158587336404,2010,"YEM","Middle East & North Africa (all income levels)",285837
+"Z4","East Asia & Pacific",1.04656109924139,2010,NA,NA,22841512
+"Z7","Europe & Central Asia",9.02283249744181,2010,NA,NA,79845132
+"ZA","South Africa",3.76412049577547,2010,"ZAF","Sub-Saharan Africa (all income levels)",1943099
+"ZF","Sub-Saharan Africa (excluding high income)",1.73465067701731,2010,NA,NA,15187414
+"ZG","Sub-Saharan Africa",1.73573293794107,2010,NA,NA,15198834
+"ZJ","Latin America & Caribbean",1.33152761350103,2010,NA,NA,7968729
+"ZM","Zambia",1.07517625908042,2010,"ZMB","Sub-Saharan Africa (all income levels)",149637
+"ZQ","Middle East & North Africa",8.46820649053213,2010,NA,NA,32601004
+"ZT","IDA & IBRD total",1.35058917308731,2010,NA,NA,78412893
+"ZW","Zimbabwe",2.84738752546981,2010,"ZWE","Sub-Saharan Africa (all income levels)",397891
+"1A","Arab World",6.15902863559143,2005,"ARB","Aggregates",19323851
+"1W","World",2.94426592185401,2005,"WLD","Aggregates",190789342
+"4E","East Asia & Pacific (excluding high income)",0.292303564663127,2005,NA,NA,5540615
+"7E","Europe & Central Asia (excluding high income)",6.80631226651769,2005,NA,NA,26818942
+"8S","South Asia",0.738328131148532,2005,"SAS","Aggregates",11153081
+"AD","Andorra",61.9258091919776,2005,"AND","Europe & Central Asia (all income levels)",50298
+"AE","United Arab Emirates",73.2051220265347,2005,"ARE","Middle East & North Africa (all income levels)",3281036
+"AF","Afghanistan",0.357787647744167,2005,"AFG","South Asia",87300
+"AG","Antigua and Barbuda",29.9654817416581,2005,"ATG","Latin America & Caribbean (all income levels)",24741
+"AL","Albania",2.10043436900991,2005,"ALB","Europe & Central Asia (all income levels)",64739
+"AM","Armenia",15.5599308372337,2005,"ARM","Europe & Central Asia (all income levels)",469119
+"AO","Angola",0.342372570625194,2005,"AGO","Sub-Saharan Africa (all income levels)",61329
+"AR","Argentina",4.27402481680457,2005,"ARG","Latin America & Caribbean (all income levels)",1673088
+"AS","American Samoa",40.9915929428083,2005,"ASM","East Asia & Pacific (all income levels)",24233
+"AT","Austria",13.798295003994,2005,"AUT","Europe & Central Asia (all income levels)",1136270
+"AU","Australia",24.0601862004287,2005,"AUS","East Asia & Pacific (all income levels)",4878030
+"AW","Aruba",32.5299157261249,2005,"ABW","Latin America & Caribbean (all income levels)",32540
+"AZ","Azerbaijan",3.52920651358258,2005,"AZE","Europe & Central Asia (all income levels)",302220
+"B8","Central Europe and the Baltics",3.14255743925622,2005,NA,NA,3336747
+"BA","Bosnia and Herzegovina",1.23316856129726,2005,"BIH","Europe & Central Asia (all income levels)",47272
+"BB","Barbados",11.1761120822735,2005,"BRB","Latin America & Caribbean (all income levels)",30624
+"BD","Bangladesh",0.816273820343876,2005,"BGD","South Asia",1166700
+"BE","Belgium",8.24567795515686,2005,"BEL","Europe & Central Asia (all income levels)",870862
+"BF","Burkina Faso",4.44773623821136,2005,"BFA","Sub-Saharan Africa (all income levels)",596972
+"BG","Bulgaria",0.794963797478306,2005,"BGR","Europe & Central Asia (all income levels)",61074
+"BH","Bahrain",46.5987861787699,2005,"BHR","Middle East & North Africa (all income levels)",404018
+"BI","Burundi",2.17884243843718,2005,"BDI","Sub-Saharan Africa (all income levels)",172874
+"BJ","Benin",2.09595957744231,2005,"BEN","Sub-Saharan Africa (all income levels)",171499
+"BM","Bermuda",28.0633867698544,2005,"BMU","North America",18276
+"BN","Brunei Darussalam",27.2019873497122,2005,"BRN","East Asia & Pacific (all income levels)",98441
+"BO","Bolivia",1.18071471896316,2005,"BOL","Latin America & Caribbean (all income levels)",107745
+"BR","Brazil",0.338807605548494,2005,"BRA","Latin America & Caribbean (all income levels)",638582
+"BS","Bahamas, The",13.8484341352739,2005,"BHS","Latin America & Caribbean (all income levels)",45595
+"BT","Bhutan",6.18570158316735,2005,"BTN","South Asia",40279
+"BW","Botswana",4.76549662205479,2005,"BWA","Sub-Saharan Africa (all income levels)",88829
+"BY","Belarus",11.4824820322685,2005,"BLR","Europe & Central Asia (all income levels)",1106982
+"BZ","Belize",14.6230394769821,2005,"BLZ","Latin America & Caribbean (all income levels)",41424
+"CA","Canada",18.8458650895004,2005,"CAN","North America",6078985
+"CD","Congo, Dem. Rep.",1.11049055567156,2005,"COD","Sub-Saharan Africa (all income levels)",622869
+"CF","Central African Republic",2.32884933652365,2005,"CAF","Sub-Saharan Africa (all income levels)",94449
+"CG","Congo, Rep.",8.99886557167024,2005,"COG","Sub-Saharan Africa (all income levels)",315238
+"CH","Switzerland",24.3694496995927,2005,"CHE","Europe & Central Asia (all income levels)",1805437
+"CI","Cote d'Ivoire",11.0894890347837,2005,"CIV","Sub-Saharan Africa (all income levels)",2010824
+"CL","Chile",1.69839899441937,2005,"CHL","Latin America & Caribbean (all income levels)",273384
+"CM","Cameroon",1.42735706004066,2005,"CMR","Sub-Saharan Africa (all income levels)",258737
+"CN","China",0.0520026556666107,2005,"CHN","East Asia & Pacific (all income levels)",678947
+"CO","Colombia",0.248609030487619,2005,"COL","Latin America & Caribbean (all income levels)",107612
+"CR","Costa Rica",8.43192650952495,2005,"CRI","Latin America & Caribbean (all income levels)",358175
+"CU","Cuba",0.151167049046572,2005,"CUB","Latin America & Caribbean (all income levels)",17023
+"CV","Cabo Verde",2.67805931374203,2005,NA,NA,12700
+"CY","Cyprus",11.3467546528812,2005,"CYP","Europe & Central Asia (all income levels)",117165
+"CZ","Czech Republic",3.1526134074332,2005,"CZE","Europe & Central Asia (all income levels)",322540
+"DE","Germany",12.676388329431,2005,"DEU","Europe & Central Asia (all income levels)",10299160
+"DJ","Djibouti",11.8307155905787,2005,"DJI","Middle East & North Africa (all income levels)",92091
+"DK","Denmark",8.12860900915002,2005,"DNK","Europe & Central Asia (all income levels)",440383
+"DM","Dominica",6.72507158855717,2005,"DMA","Latin America & Caribbean (all income levels)",4744
+"DO","Dominican Republic",4.07034754288603,2005,"DOM","Latin America & Caribbean (all income levels)",376001
+"DZ","Algeria",0.744071903334288,2005,"DZA","Middle East & North Africa (all income levels)",247537
+"EC","Ecuador",1.36440360090023,2005,"ECU","Latin America & Caribbean (all income levels)",187404
+"EE","Estonia",17.2388840286148,2005,"EST","Europe & Central Asia (all income levels)",233701
+"EG","Egypt, Arab Rep.",0.365616849751305,2005,"EGY","Middle East & North Africa (all income levels)",274001
+"ER","Eritrea",0.341519151818552,2005,"ERI","Sub-Saharan Africa (all income levels)",14314
+"ES","Spain",9.36551905960678,2005,"ESP","Europe & Central Asia (all income levels)",4107226
+"ET","Ethiopia",0.671260321204072,2005,"ETH","Sub-Saharan Africa (all income levels)",514242
+"EU","European Union",8.66810082334588,2005,"EUU","Aggregates",42706560
+"F1","Fragile and conflict affected situations",2.22946134677106,2005,NA,NA,8324761
+"FI","Finland",3.66289593105173,2005,"FIN","Europe & Central Asia (all income levels)",192169
+"FJ","Fiji",1.51310505950208,2005,"FJI","East Asia & Pacific (all income levels)",12435
+"FM","Micronesia, Fed. Sts.",2.73545641160851,2005,"FSM","East Asia & Pacific (all income levels)",2905
+"FO","Faroe Islands",9.48134969071312,2005,NA,NA,4583
+"FR","France",11.0016541016987,2005,"FRA","Europe & Central Asia (all income levels)",6737600
+"GA","Gabon",15.5411942571258,2005,"GAB","Sub-Saharan Africa (all income levels)",214123
+"GB","United Kingdom",9.84247603205925,2005,"GBR","Europe & Central Asia (all income levels)",5926156
+"GD","Grenada",6.70416023156647,2005,"GRD","Latin America & Caribbean (all income levels)",6902
+"GE","Georgia",4.46464383290137,2005,"GEO","Europe & Central Asia (all income levels)",199805
+"GH","Ghana",1.42329554565849,2005,"GHA","Sub-Saharan Africa (all income levels)",304436
+"GI","Gibraltar",31.6746905089409,2005,"GIB","Europe & Central Asia (all income levels)",9211
+"GL","Greenland",11.7395045037136,2005,"GRL","Europe & Central Asia (all income levels)",6686
+"GM","Gambia, The",12.6275388013678,2005,"GMB","Sub-Saharan Africa (all income levels)",181905
+"GN","Guinea",2.37470735150801,2005,"GIN","Sub-Saharan Africa (all income levels)",229611
+"GQ","Equatorial Guinea",1.05262148766669,2005,"GNQ","Sub-Saharan Africa (all income levels)",6588
+"GR","Greece",10.7564892225255,2005,"GRC","Europe & Central Asia (all income levels)",1190707
+"GT","Guatemala",0.43426994566316,2005,"GTM","Latin America & Caribbean (all income levels)",57252
+"GU","Guam",47.1859394827053,2005,"GUM","East Asia & Pacific (all income levels)",74743
+"GW","Guinea-Bissau",1.41757087854393,2005,"GNB","Sub-Saharan Africa (all income levels)",20736
+"GY","Guyana",1.46371356036068,2005,"GUY","Latin America & Caribbean (all income levels)",10868
+"HK","Hong Kong SAR, China",39.7698051798584,2005,"HKG","East Asia & Pacific (all income levels)",2721235
+"HN","Honduras",0.405149224998587,2005,"HND","Latin America & Caribbean (all income levels)",27875
+"HR","Croatia",13.231283473761,2005,"HRV","Europe & Central Asia (all income levels)",579273
+"HT","Haiti",0.328906993095091,2005,"HTI","Latin America & Caribbean (all income levels)",30468
+"HU","Hungary",3.63300621911885,2005,"HUN","Europe & Central Asia (all income levels)",366787
+"ID","Indonesia",0.127983196000129,2005,"IDN","East Asia & Pacific (all income levels)",289568
+"IE","Ireland",14.0125603634893,2005,"IRL","Europe & Central Asia (all income levels)",589046
+"IL","Israel",28.6128924839904,2005,"ISR","Middle East & North Africa (all income levels)",1889503
+"IM","Isle of Man",51.6211338602278,2005,"IMN","Europe & Central Asia (all income levels)",41475
+"IN","India",0.517653228474756,2005,"IND","South Asia",5923642
+"IQ","Iraq",0.491955055261526,2005,"IRQ","Middle East & North Africa (all income levels)",132915
+"IR","Iran, Islamic Rep.",3.66350900853461,2005,"IRN","Middle East & North Africa (all income levels)",2568930
+"IS","Iceland",8.59054069992755,2005,"ISL","Europe & Central Asia (all income levels)",25492
+"IT","Italy",6.74218944921741,2005,"ITA","Europe & Central Asia (all income levels)",3954790
+"JG","Channel Islands",45.9766166768202,2005,"CHI","Europe & Central Asia (all income levels)",70941
+"JM","Jamaica",0.907954328186989,2005,"JAM","Latin America & Caribbean (all income levels)",24314
+"JO","Jordan",43.6043849388578,2005,"JOR","Middle East & North Africa (all income levels)",2325414
+"JP","Japan",1.58523842500455,2005,"JPN","East Asia & Pacific (all income levels)",2012916
+"KE","Kenya",2.1412010057416,2005,"KEN","Sub-Saharan Africa (all income levels)",756894
+"KG","Kyrgyz Republic",6.11668136065699,2005,"KGZ","Europe & Central Asia (all income levels)",312897
+"KH","Cambodia",0.856084860891747,2005,"KHM","East Asia & Pacific (all income levels)",114031
+"KI","Kiribati",2.69362822081903,2005,"KIR","East Asia & Pacific (all income levels)",2487
+"KM","Comoros",2.13519507558613,2005,"COM","Sub-Saharan Africa (all income levels)",13209
+"KN","St. Kitts and Nevis",13.5981603207228,2005,"KNA","Latin America & Caribbean (all income levels)",6682
+"KP","Korea, Dem. People’s Rep.",0.168380525121146,2005,NA,NA,40097
+"KR","Korea, Rep.",1.01992899488032,2005,"KOR","East Asia & Pacific (all income levels)",485546
+"KW","Kuwait",58.9028381289307,2005,"KWT","Middle East & North Africa (all income levels)",1333327
+"KY","Cayman Islands",44.5365362071448,2005,"CYM","Latin America & Caribbean (all income levels)",21655
+"KZ","Kazakhstan",20.0816192235029,2005,"KAZ","Europe & Central Asia (all income levels)",3102962
+"LA","Lao PDR",0.354585856391597,2005,"LAO","East Asia & Pacific (all income levels)",20371
+"LB","Lebanon",18.9819319189388,2005,"LBN","Middle East & North Africa (all income levels)",756784
+"LC","St. Lucia",6.93320113417207,2005,"LCA","Latin America & Caribbean (all income levels)",11468
+"LI","Liechtenstein",54.22357396993,2005,"LIE","Europe & Central Asia (all income levels)",18898
+"LK","Sri Lanka",0.202423323575265,2005,"LKA","South Asia",39526
+"LR","Liberia",2.66647419739396,2005,"LBR","Sub-Saharan Africa (all income levels)",87188
+"LS","Lesotho",0.32661004733509,2005,"LSO","Sub-Saharan Africa (all income levels)",6290
+"LT","Lithuania",6.01833296044469,2005,"LTU","Europe & Central Asia (all income levels)",201209
+"LU","Luxembourg",32.897015815327,2005,"LUX","Europe & Central Asia (all income levels)",150618
+"LV","Latvia",16.9120099624746,2005,"LVA","Europe & Central Asia (all income levels)",376725
+"LY","Libya",10.776650280796,2005,"LBY","Middle East & North Africa (all income levels)",625212
+"MA","Morocco",0.178963774110653,2005,"MAR","Middle East & North Africa (all income levels)",54379
+"MC","Monaco",63.0383341221013,2005,"MCO","Europe & Central Asia (all income levels)",21312
+"MD","Moldova",4.1839648633249,2005,"MDA","Europe & Central Asia (all income levels)",173957
+"MG","Madagascar",0.142468226764279,2005,"MDG","Sub-Saharan Africa (all income levels)",26058
+"MH","Marshall Islands",4.64289830573591,2005,"MHL","East Asia & Pacific (all income levels)",2417
+"MK","Macedonia, FYR",6.24932081644961,2005,"MKD","Europe & Central Asia (all income levels)",127667
+"ML","Mali",1.99355131405135,2005,"MLI","Sub-Saharan Africa (all income levels)",256797
+"MM","Myanmar",0.166100813560885,2005,"MMR","East Asia & Pacific (all income levels)",83025
+"MN","Mongolia",0.454195160238865,2005,"MNG","East Asia & Pacific (all income levels)",11475
+"MO","Macao SAR, China",59.662201564032,2005,"MAC","East Asia & Pacific (all income levels)",279308
+"MP","Northern Mariana Islands",58.3203877462251,2005,"MNP","East Asia & Pacific (all income levels)",37542
+"MR","Mauritania",1.84265684491265,2005,"MRT","Sub-Saharan Africa (all income levels)",58119
+"MT","Malta",6.18493354218397,2005,"MLT","Middle East & North Africa (all income levels)",24560
+"MU","Mauritius",1.60776624664691,2005,"MUS","Sub-Saharan Africa (all income levels)",19647
+"MV","Maldives",14.7704021405525,2005,"MDV","South Asia",45045
+"MW","Malawi",1.73881140390306,2005,"MWI","Sub-Saharan Africa (all income levels)",221661
+"MX","Mexico",0.649203275003716,2005,"MEX","Latin America & Caribbean (all income levels)",712487
+"MY","Malaysia",6.67675500396881,2005,"MYS","East Asia & Pacific (all income levels)",1722344
+"MZ","Mozambique",0.969532547382276,2005,"MOZ","Sub-Saharan Africa (all income levels)",204830
+"NA","Namibia",5.24285332304568,2005,"NAM","Sub-Saharan Africa (all income levels)",106274
+"NC","New Caledonia",24.227861275215,2005,"NCL","East Asia & Pacific (all income levels)",55405
+"NE","Niger",0.922929002814592,2005,"NER","Sub-Saharan Africa (all income levels)",124461
+"NG","Nigeria",0.46415940978647,2005,"NGA","Sub-Saharan Africa (all income levels)",648019
+"NI","Nicaragua",0.649114656907825,2005,"NIC","Latin America & Caribbean (all income levels)",34918
+"NL","Netherlands",10.6304471698689,2005,"NLD","Europe & Central Asia (all income levels)",1736127
+"NO","Norway",7.80955231265197,2005,"NOR","Europe & Central Asia (all income levels)",361144
+"NP","Nepal",2.66382199258105,2005,"NPL","South Asia",679457
+"NR","Nauru",22.2738507167573,2005,NA,NA,2253
+"NZ","New Zealand",20.3147073100122,2005,"NZL","East Asia & Pacific (all income levels)",839952
+"OE","OECD members",8.4808062615095,2005,"OED","Aggregates",101141797
+"OM","Oman",26.5731537589787,2005,"OMN","Middle East & North Africa (all income levels)",666160
+"PA","Panama",3.54179991510261,2005,"PAN","Latin America & Caribbean (all income levels)",117563
+"PE","Peru",0.280839767441305,2005,"PER","Latin America & Caribbean (all income levels)",77541
+"PF","French Polynesia",12.6669386858336,2005,"PYF","East Asia & Pacific (all income levels)",32286
+"PG","Papua New Guinea",0.492319167130093,2005,"PNG","East Asia & Pacific (all income levels)",29967
+"PH","Philippines",0.298890058323078,2005,"PHL","East Asia & Pacific (all income levels)",257468
+"PK","Pakistan",2.06781872261554,2005,"PAK","South Asia",3171132
+"PL","Poland",1.87842691647986,2005,"POL","Europe & Central Asia (all income levels)",722509
+"PR","Puerto Rico",9.36268575802622,2005,"PRI","Latin America & Caribbean (all income levels)",352144
+"PS","West Bank and Gaza",7.44852159346852,2005,"PSE","Middle East & North Africa (all income levels)",266617
+"PT","Portugal",7.35856627117051,2005,"PRT","Europe & Central Asia (all income levels)",771184
+"PW","Palau",30.3561561259858,2005,"PLW","East Asia & Pacific (all income levels)",6043
+"PY","Paraguay",2.90299720834794,2005,"PRY","Latin America & Caribbean (all income levels)",168243
+"QA","Qatar",77.1905214810425,2005,"QAT","Middle East & North Africa (all income levels)",646026
+"RO","Romania",0.678085685288028,2005,"ROU","Europe & Central Asia (all income levels)",145162
+"RS","Serbia",9.19940108972932,2005,"SRB","Europe & Central Asia (all income levels)",845120
+"RU","Russian Federation",8.1237846704396,2005,"RUS","Europe & Central Asia (all income levels)",11667588
+"RW","Rwanda",4.80446214184141,2005,"RWA","Sub-Saharan Africa (all income levels)",432797
+"S1","Small states",8.9933954628507,2005,"SST","Aggregates",2787224
+"S2","Pacific island small states",2.16457133368218,2005,"PSS","Aggregates",44841
+"S3","Caribbean small states",4.36568825293822,2005,"CSS","Aggregates",290233
+"S4","Other small states",11.0060380234191,2005,"OSS","Aggregates",2452150
+"SA","Saudi Arabia",26.275039674313,2005,"SAU","Middle East & North Africa (all income levels)",6501819
+"SB","Solomon Islands",0.696986614277252,2005,"SLB","East Asia & Pacific (all income levels)",3271
+"SC","Seychelles",10.1378074751823,2005,"SYC","Sub-Saharan Africa (all income levels)",8997
+"SD","Sudan",1.69426054758419,2005,"SDN","Sub-Saharan Africa (all income levels)",541994
+"SE","Sweden",12.4669953355216,2005,"SWE","Europe & Central Asia (all income levels)",1125790
+"SG","Singapore",38.0509888598255,2005,"SGP","East Asia & Pacific (all income levels)",1710594
+"SI","Slovenia",9.88098302948828,2005,"SVN","Europe & Central Asia (all income levels)",197276
+"SK","Slovak Republic",2.4231448015224,2005,"SVK","Europe & Central Asia (all income levels)",130491
+"SL","Sierra Leone",2.95024659498575,2005,"SLE","Sub-Saharan Africa (all income levels)",149615
+"SM","San Marino",14.424457971411,2005,"SMR","Europe & Central Asia (all income levels)",4218
+"SN","Senegal",2.11463419006169,2005,"SEN","Sub-Saharan Africa (all income levels)",238298
+"SO","Somalia",0.244126034701093,2005,"SOM","Sub-Saharan Africa (all income levels)",20670
+"SR","Suriname",6.84229032985839,2005,"SUR","Latin America & Caribbean (all income levels)",33664
+"ST","Sao Tome and Principe",2.24165175714678,2005,"STP","Sub-Saharan Africa (all income levels)",3433
+"SV","El Salvador",0.605645743564289,2005,"SLV","Latin America & Caribbean (all income levels)",36019
+"SX","Sint Maarten (Dutch part)",40.2729955730448,2005,"SXM","Latin America & Caribbean (all income levels)",13100
+"SY","Syrian Arab Republic",4.83327434276436,2005,"SYR","Middle East & North Africa (all income levels)",876410
+"SZ","Swaziland",2.45301192603577,2005,"SWZ","Sub-Saharan Africa (all income levels)",27097
+"T2","Latin America & the Caribbean (IDA & IBRD countries)",1.16187323509661,2005,NA,NA,6351251
+"T3","Middle East & North Africa (IDA & IBRD countries)",2.71711454660067,2005,NA,NA,8159786
+"T4","East Asia & Pacific (IDA & IBRD countries)",0.292713714995347,2005,NA,NA,5478538
+"T5","South Asia (IDA & IBRD)",0.738328131148532,2005,NA,NA,11153081
+"T6","Sub-Saharan Africa (IDA & IBRD countries)",1.80979090361265,2005,NA,NA,13680256
+"T7","Europe & Central Asia (IDA & IBRD countries)",6.43818091495819,2005,NA,NA,28120724
+"TC","Turks and Caicos Islands",37.5992438563327,2005,"TCA","Latin America & Caribbean (all income levels)",9945
+"TD","Chad",3.49686509602965,2005,"TCD","Sub-Saharan Africa (all income levels)",352062
+"TG","Togo",3.64594864418195,2005,"TGO","Sub-Saharan Africa (all income levels)",203379
+"TH","Thailand",3.28471985739457,2005,"THA","East Asia & Pacific (all income levels)",2163447
+"TJ","Tajikistan",4.1207495825163,2005,"TJK","Europe & Central Asia (all income levels)",280444
+"TL","Timor-Leste",1.14057950655737,2005,"TLS","East Asia & Pacific (all income levels)",11286
+"TM","Turkmenistan",4.48732570754821,2005,"TKM","Europe & Central Asia (all income levels)",213051
+"TN","Tunisia",0.346845630037069,2005,"TUN","Middle East & North Africa (all income levels)",35040
+"TO","Tonga",4.26441135061175,2005,"TON","East Asia & Pacific (all income levels)",4301
+"TR","Turkey",1.9440377325187,2005,"TUR","Europe & Central Asia (all income levels)",1319236
+"TT","Trinidad and Tobago",3.4552286047159,2005,"TTO","Latin America & Caribbean (all income levels)",44812
+"TV","Tuvalu",1.88776562822364,2005,"TUV","East Asia & Pacific (all income levels)",183
+"TZ","Tanzania",1.97320916612058,2005,"TZA","Sub-Saharan Africa (all income levels)",770846
+"UA","Ukraine",10.7923244364238,2005,"UKR","Europe & Central Asia (all income levels)",5050302
+"UG","Uganda",2.3285014738211,2005,"UGA","Sub-Saharan Africa (all income levels)",652968
+"US","United States",13.2566831184215,2005,"USA","North America",39258293
+"UY","Uruguay",2.47527670128289,2005,"URY","Latin America & Caribbean (all income levels)",82318
+"UZ","Uzbekistan",5.12820285315632,2005,"UZB","Europe & Central Asia (all income levels)",1329345
+"V1","Pre-demographic dividend",1.67957427425017,2005,NA,NA,10569263
+"V2","Early-demographic dividend",1.46413772720206,2005,NA,NA,39296469
+"V3","Late-demographic dividend",1.56724389682165,2005,NA,NA,33431529
+"V4","Post-demographic dividend",10.2550056396951,2005,NA,NA,107100145
+"VC","St. Vincent and the Grenadines",4.04141647279515,2005,"VCT","Latin America & Caribbean (all income levels)",4395
+"VE","Venezuela, RB",3.99924315764641,2005,"VEN","Latin America & Caribbean (all income levels)",1070562
+"VG","British Virgin Islands",59.5968751348785,2005,NA,NA,13808
+"VI","Virgin Islands (U.S.)",52.563840843293,2005,"VIR","Latin America & Caribbean (all income levels)",56647
+"VN","Vietnam",0.0614793982557822,2005,"VNM","East Asia & Pacific (all income levels)",51768
+"VU","Vanuatu",1.33731343283582,2005,"VUT","East Asia & Pacific (all income levels)",2800
+"WS","Samoa",3.19349962207105,2005,"WSM","East Asia & Pacific (all income levels)",5746
+"XC","Euro area",10.1099985954656,2005,"EMU","Aggregates",33016886
+"XD","High income",10.9727520678468,2005,"HIC","Aggregates",119242705
+"XE","Heavily indebted poor countries (HIPC)",1.90709397094531,2005,"HPC","Aggregates",10419014
+"XF","IBRD only",1.27901709280824,2005,NA,NA,52832538
+"XG","IDA total",1.54108070787635,2005,NA,NA,20111098
+"XH","IDA blend",1.37202734481176,2005,NA,NA,6581097
+"XI","IDA only",1.63909028381369,2005,NA,NA,13530001
+"XJ","Latin America & Caribbean (excluding high income)",0.856223327618197,2005,NA,NA,4263249
+"XL","Least developed countries: UN classification",1.3172533585676,2005,"LDC","Aggregates",9809634
+"XM","Low income",1.59081838120362,2005,"LIC","Aggregates",7604325
+"XN","Lower middle income",1.03803103493347,2005,"LMC","Aggregates",26077762
+"XO","Low & middle income",1.30047977943743,2005,"LMY","Aggregates",69873549
+"XP","Middle income",1.27200591993763,2005,"MIC","Aggregates",62269224
+"XQ","Middle East & North Africa (excluding high income)",2.76885703943219,2005,NA,NA,8426403
+"XT","Upper middle income",1.52095544702826,2005,"UMC","Aggregates",36191462
+"XU","North America",13.8103628062295,2005,"NAC","Aggregates",45355554
+"YE","Yemen, Rep.",0.834323975091182,2005,"YEM","Middle East & North Africa (all income levels)",171073
+"Z4","East Asia & Pacific",0.887887676137807,2005,NA,NA,18768866
+"Z7","Europe & Central Asia",8.24940619342263,2005,NA,NA,71714401
+"ZA","South Africa",2.50436834765266,2005,"ZAF","Sub-Saharan Africa (all income levels)",1210936
+"ZF","Sub-Saharan Africa (excluding high income)",1.80887562045978,2005,NA,NA,13671259
+"ZG","Sub-Saharan Africa",1.80979090361265,2005,NA,NA,13680256
+"ZJ","Latin America & Caribbean",1.23550988038299,2005,NA,NA,6944332
+"ZM","Zambia",2.09861826094891,2005,"ZMB","Sub-Saharan Africa (all income levels)",252749
+"ZQ","Middle East & North Africa",6.70608018000453,2005,NA,NA,23172852
+"ZT","IDA & IBRD total",1.34213449374954,2005,NA,NA,72943636
+"ZW","Zimbabwe",3.0243404055538,2005,"ZWE","Sub-Saharan Africa (all income levels)",392693
+"1A","Arab World",5.75504096861684,2000,"ARB","Aggregates",16216741
+"1W","World",2.83098701015404,2000,"WLD","Aggregates",172278883
+"4E","East Asia & Pacific (excluding high income)",0.227015701602964,2000,NA,NA,4124107
+"7E","Europe & Central Asia (excluding high income)",7.07440392094325,2000,NA,NA,27780057
+"8S","South Asia",0.900061072964771,2000,"SAS","Aggregates",12474215
+"AD","Andorra",64.4444104649918,2000,"AND","Europe & Central Asia (all income levels)",42146
+"AE","United Arab Emirates",80.2154860386187,2000,"ARE","Middle East & North Africa (all income levels)",2446675
+"AF","Afghanistan",0.385327536273078,2000,"AFG","South Asia",75917
+"AG","Antigua and Barbuda",29.7122913661653,2000,"ATG","Latin America & Caribbean (all income levels)",23071
+"AL","Albania",2.45662587504985,2000,"ALB","Europe & Central Asia (all income levels)",76695
+"AM","Armenia",21.3874850541173,2000,"ARM","Europe & Central Asia (all income levels)",657900
+"AO","Angola",0.30618970985291,2000,"AGO","Sub-Saharan Africa (all income levels)",46108
+"AR","Argentina",4.15630021847427,2000,"ARG","Latin America & Caribbean (all income levels)",1540219
+"AS","American Samoa",43.3086471263169,2000,"ASM","East Asia & Pacific (all income levels)",24912
+"AT","Austria",12.3781065532679,2000,"AUT","Europe & Central Asia (all income levels)",996547
+"AU","Australia",22.9559448399982,2000,"AUS","East Asia & Pacific (all income levels)",4386250
+"AW","Aruba",33.1330207576658,2000,"ABW","Latin America & Caribbean (all income levels)",30104
+"AZ","Azerbaijan",4.03486585309067,2000,"AZE","Europe & Central Asia (all income levels)",327540
+"B8","Central Europe and the Baltics",3.02273188460915,2000,NA,NA,3279999
+"BA","Bosnia and Herzegovina",2.18704635371873,2000,"BIH","Europe & Central Asia (all income levels)",82952
+"BB","Barbados",10.5337276439938,2000,"BRB","Latin America & Caribbean (all income levels)",28424
+"BD","Bangladesh",0.752473673994172,2000,"BGD","South Asia",987853
+"BE","Belgium",8.31064880730943,2000,"BEL","Europe & Central Asia (all income levels)",853369
+"BF","Burkina Faso",4.48002678165918,2000,"BFA","Sub-Saharan Africa (all income levels)",520039
+"BG","Bulgaria",0.541965449702581,2000,"BGR","Europe & Central Asia (all income levels)",43360
+"BH","Bahrain",35.8940099421913,2000,"BHR","Middle East & North Africa (all income levels)",239361
+"BI","Burundi",1.85645994952323,2000,"BDI","Sub-Saharan Africa (all income levels)",125628
+"BJ","Benin",1.9243482067285,2000,"BEN","Sub-Saharan Africa (all income levels)",133730
+"BM","Bermuda",27.5911610837823,2000,"BMU","North America",17668
+"BN","Brunei Darussalam",29.1317001155636,2000,"BRN","East Asia & Pacific (all income levels)",96296
+"BO","Bolivia",1.11107220662312,2000,"BOL","Latin America & Caribbean (all income levels)",92658
+"BR","Brazil",0.389447556993318,2000,"BRA","Latin America & Caribbean (all income levels)",684596
+"BS","Bahamas, The",12.2373619881097,2000,"BHS","Latin America & Caribbean (all income levels)",36454
+"BT","Bhutan",5.69616102462481,2000,"BTN","South Asia",32137
+"BW","Botswana",3.2860008096378,2000,"BWA","Sub-Saharan Africa (all income levels)",57064
+"BY","Belarus",11.2899898563663,2000,"BLR","Europe & Central Asia (all income levels)",1123586
+"BZ","Belize",14.7538332147247,2000,"BLZ","Latin America & Caribbean (all income levels)",36488
+"CA","Canada",17.9530044114855,2000,"CAN","North America",5511914
+"CD","Congo, Dem. Rep.",1.54923558332444,2000,"COD","Sub-Saharan Africa (all income levels)",744387
+"CF","Central African Republic",3.31528203608757,2000,"CAF","Sub-Saharan Africa (all income levels)",123529
+"CG","Congo, Rep.",9.80944395611959,2000,"COG","Sub-Saharan Africa (all income levels)",305002
+"CH","Switzerland",21.9208463347215,2000,"CHE","Europe & Central Asia (all income levels)",1570756
+"CI","Cote d'Ivoire",12.0725346756147,2000,"CIV","Sub-Saharan Africa (all income levels)",1994135
+"CL","Chile",1.16893524206073,2000,"CHL","Latin America & Caribbean (all income levels)",177332
+"CM","Cameroon",1.43387189359828,2000,"CMR","Sub-Saharan Africa (all income levels)",228383
+"CN","China",0.0400034781168831,2000,"CHN","East Asia & Pacific (all income levels)",508034
+"CO","Colombia",0.271282821567065,2000,"COL","Latin America & Caribbean (all income levels)",109609
+"CR","Costa Rica",7.92128291023959,2000,"CRI","Latin America & Caribbean (all income levels)",310946
+"CU","Cuba",0.160280124104204,2000,"CUB","Latin America & Caribbean (all income levels)",17818
+"CV","Cabo Verde",2.51335082293037,2000,NA,NA,11027
+"CY","Cyprus",8.48903886091932,2000,"CYP","Europe & Central Asia (all income levels)",80076
+"CZ","Czech Republic",2.15130843680363,2000,"CZE","Europe & Central Asia (all income levels)",220789
+"DE","Germany",10.9805597775469,2000,"DEU","Europe & Central Asia (all income levels)",8992631
+"DJ","Djibouti",13.9098098156283,2000,"DJI","Middle East & North Africa (all income levels)",100507
+"DK","Denmark",6.9502871990863,2000,"DNK","Europe & Central Asia (all income levels)",371026
+"DM","Dominica",5.34307323583863,2000,"DMA","Latin America & Caribbean (all income levels)",3723
+"DO","Dominican Republic",4.1530615093062,2000,"DOM","Latin America & Caribbean (all income levels)",355611
+"DZ","Algeria",0.802054717249657,2000,"DZA","Middle East & North Africa (all income levels)",250110
+"EC","Ecuador",1.19984042564985,2000,"ECU","Latin America & Caribbean (all income levels)",151523
+"EE","Estonia",17.83317669005,2000,"EST","Europe & Central Asia (all income levels)",249512
+"EG","Egypt, Arab Rep.",0.253826357115738,2000,"EGY","Middle East & North Africa (all income levels)",173452
+"ER","Eritrea",0.366377042484122,2000,"ERI","Sub-Saharan Africa (all income levels)",12952
+"ES","Spain",4.06697701583811,2000,"ESP","Europe & Central Asia (all income levels)",1657285
+"ET","Ethiopia",0.920154796542265,2000,"ETH","Sub-Saharan Africa (all income levels)",611384
+"EU","European Union",7.06734444492503,2000,"EUU","Aggregates",34332802
+"F1","Fragile and conflict affected situations",2.49247630980502,2000,NA,NA,8213946
+"FI","Finland",2.63118851760713,2000,"FIN","Europe & Central Asia (all income levels)",136203
+"FJ","Fiji",1.56787960893614,2000,"FJI","East Asia & Pacific (all income levels)",12719
+"FM","Micronesia, Fed. Sts.",2.9004933445034,2000,"FSM","East Asia & Pacific (all income levels)",3116
+"FO","Faroe Islands",7.72837753543697,2000,NA,NA,3593
+"FR","France",10.572513601125,2000,"FRA","Europe & Central Asia (all income levels)",6278718
+"GA","Gabon",15.8800956194968,2000,"GAB","Sub-Saharan Africa (all income levels)",195571
+"GB","United Kingdom",8.03534183597997,2000,"GBR","Europe & Central Asia (all income levels)",4730165
+"GD","Grenada",6.71619759889785,2000,"GRD","Latin America & Caribbean (all income levels)",6825
+"GE","Georgia",4.60832310374145,2000,"GEO","Europe & Central Asia (all income levels)",218600
+"GH","Ghana",1.01780112121151,2000,"GHA","Sub-Saharan Africa (all income levels)",191601
+"GI","Gibraltar",29.4468209571862,2000,"GIB","Europe & Central Asia (all income levels)",8054
+"GL","Greenland",12.0251361839997,2000,"GRL","Europe & Central Asia (all income levels)",6755
+"GM","Gambia, The",14.8522658750406,2000,"GMB","Sub-Saharan Africa (all income levels)",182514
+"GN","Guinea",6.36509259685436,2000,"GIN","Sub-Saharan Africa (all income levels)",560075
+"GQ","Equatorial Guinea",0.850825773786203,2000,"GNQ","Sub-Saharan Africa (all income levels)",4517
+"GR","Greece",10.1484549250906,2000,"GRC","Europe & Central Asia (all income levels)",1111665
+"GT","Guatemala",0.411672509936982,2000,"GTM","Latin America & Caribbean (all income levels)",48119
+"GU","Guam",47.6861866501854,2000,"GUM","East Asia & Pacific (all income levels)",74070
+"GW","Guinea-Bissau",1.55459517809427,2000,"GNB","Sub-Saharan Africa (all income levels)",20450
+"GY","Guyana",1.16003653913001,2000,"GUY","Latin America & Caribbean (all income levels)",8610
+"HK","Hong Kong SAR, China",39.3472575079951,2000,"HKG","East Asia & Pacific (all income levels)",2669122
+"HN","Honduras",0.455880751167693,2000,"HND","Latin America & Caribbean (all income levels)",28461
+"HR","Croatia",13.2179060443728,2000,"HRV","Europe & Central Asia (all income levels)",585298
+"HT","Haiti",0.302156856277346,2000,"HTI","Latin America & Caribbean (all income levels)",25832
+"HU","Hungary",2.90447689692006,2000,"HUN","Europe & Central Asia (all income levels)",296957
+"ID","Indonesia",0.138180206385892,2000,"IDN","East Asia & Pacific (all income levels)",292307
+"IE","Ireland",9.12521794451962,2000,"IRL","Europe & Central Asia (all income levels)",350552
+"IL","Israel",30.7848015975493,2000,"ISR","Middle East & North Africa (all income levels)",1851309
+"IM","Isle of Man",50.7798869879957,2000,"IMN","Europe & Central Asia (all income levels)",39002
+"IN","India",0.608579704980214,2000,"IND","South Asia",6411272
+"IQ","Iraq",0.893010492454406,2000,"IRQ","Middle East & North Africa (all income levels)",210525
+"IR","Iran, Islamic Rep.",4.25786235402481,2000,"IRN","Middle East & North Africa (all income levels)",2803805
+"IS","Iceland",5.65121224405613,2000,"ISL","Europe & Central Asia (all income levels)",15892
+"IT","Italy",3.71267956800803,2000,"ITA","Europe & Central Asia (all income levels)",2121688
+"JG","Channel Islands",43.2348293830896,2000,"CHI","Europe & Central Asia (all income levels)",64301
+"JM","Jamaica",0.959657243293033,2000,"JAM","Latin America & Caribbean (all income levels)",24952
+"JO","Jordan",40.4374348187594,2000,"JOR","Middle East & North Africa (all income levels)",1927845
+"JP","Japan",1.34158324270085,2000,"JPN","East Asia & Pacific (all income levels)",1686567
+"KE","Kenya",2.2505087585005,2000,"KEN","Sub-Saharan Africa (all income levels)",699139
+"KG","Kyrgyz Republic",7.862155262016,2000,"KGZ","Europe & Central Asia (all income levels)",389558
+"KH","Cambodia",1.19762369029764,2000,"KHM","East Asia & Pacific (all income levels)",146085
+"KI","Kiribati",2.70478402009336,2000,"KIR","East Asia & Pacific (all income levels)",2283
+"KM","Comoros",2.51946335193246,2000,"COM","Sub-Saharan Africa (all income levels)",13799
+"KN","St. Kitts and Nevis",12.8908308448972,2000,"KNA","Latin America & Caribbean (all income levels)",5871
+"KP","Korea, Dem. People’s Rep.",0.158417927534667,2000,NA,NA,36183
+"KR","Korea, Rep.",0.528452079588937,2000,"KOR","East Asia & Pacific (all income levels)",244178
+"KW","Kuwait",58.4429921170062,2000,"KWT","Middle East & North Africa (all income levels)",1127640
+"KY","Cayman Islands",46.1868777737795,2000,"CYM","Latin America & Caribbean (all income levels)",19253
+"KZ","Kazakhstan",19.1973279790575,2000,"KAZ","Europe & Central Asia (all income levels)",2871300
+"LA","Lao PDR",0.41078976334669,2000,"LAO","East Asia & Pacific (all income levels)",21948
+"LB","Lebanon",21.4167423919292,2000,"LBN","Middle East & North Africa (all income levels)",692913
+"LC","St. Lucia",6.28739271992813,2000,"LCA","Latin America & Caribbean (all income levels)",9868
+"LI","Liechtenstein",46.5206417883541,2000,"LIE","Europe & Central Asia (all income levels)",15483
+"LK","Sri Lanka",0.213652815239985,2000,"LKA","South Asia",40132
+"LR","Liberia",5.25137207603957,2000,"LBR","Sub-Saharan Africa (all income levels)",151868
+"LS","Lesotho",0.332233430753276,2000,"LSO","Sub-Saharan Africa (all income levels)",6167
+"LT","Lithuania",6.14710474180473,2000,"LTU","Europe & Central Asia (all income levels)",214311
+"LU","Luxembourg",32.0448880664608,2000,"LUX","Europe & Central Asia (all income levels)",139750
+"LV","Latvia",18.1396351056576,2000,"LVA","Europe & Central Asia (all income levels)",430178
+"LY","Libya",10.6315895185248,2000,"LBY","Middle East & North Africa (all income levels)",567436
+"MA","Morocco",0.183188210601711,2000,"MAR","Middle East & North Africa (all income levels)",53034
+"MC","Monaco",67.9124715563729,2000,"MCO","Europe & Central Asia (all income levels)",21787
+"MD","Moldova",5.89913850888151,2000,"MDA","Europe & Central Asia (all income levels)",247828
+"MG","Madagascar",0.149515926231188,2000,"MDG","Sub-Saharan Africa (all income levels)",23541
+"MH","Marshall Islands",3.6253139318648,2000,"MHL","East Asia & Pacific (all income levels)",1891
+"MK","Macedonia, FYR",6.24561703455827,2000,"MKD","Europe & Central Asia (all income levels)",125665
+"ML","Mali",1.71518302919744,2000,"MLI","Sub-Saharan Africa (all income levels)",189475
+"MM","Myanmar",0.205604006109446,2000,"MMR","East Asia & Pacific (all income levels)",98011
+"MN","Mongolia",0.342282052757986,2000,"MNG","East Asia & Pacific (all income levels)",8206
+"MO","Macao SAR, China",55.750659285448,2000,"MAC","East Asia & Pacific (all income levels)",240791
+"MP","Northern Mariana Islands",58.6287517900459,2000,"MNP","East Asia & Pacific (all income levels)",40122
+"MR","Mauritania",2.11571718298265,2000,"MRT","Sub-Saharan Africa (all income levels)",57366
+"MT","Malta",5.55839661139522,2000,"MLT","Middle East & North Africa (all income levels)",21521
+"MU","Mauritius",1.31148730575129,2000,"MUS","Sub-Saharan Africa (all income levels)",15543
+"MV","Maldives",9.66246290801187,2000,"MDV","South Asia",27092
+"MW","Malawi",2.07822049578183,2000,"MWI","Sub-Saharan Africa (all income levels)",232620
+"MX","Mexico",0.523352182925571,2000,"MEX","Latin America & Caribbean (all income levels)",538051
+"MY","Malaysia",5.45338191759948,2000,"MYS","East Asia & Pacific (all income levels)",1277223
+"MZ","Mozambique",1.07148629453275,2000,"MOZ","Sub-Saharan Africa (all income levels)",195702
+"NA","Namibia",7.08147145898766,2000,"NAM","Sub-Saharan Africa (all income levels)",134403
+"NC","New Caledonia",23.6436711000633,2000,"NCL","East Asia & Pacific (all income levels)",49651
+"NE","Niger",1.08922223242805,2000,"NER","Sub-Saharan Africa (all income levels)",122260
+"NG","Nigeria",0.397049976666451,2000,"NGA","Sub-Saharan Africa (all income levels)",487882
+"NI","Nicaragua",0.604540629490936,2000,"NIC","Latin America & Caribbean (all income levels)",30389
+"NL","Netherlands",9.79196824767258,2000,"NLD","Europe & Central Asia (all income levels)",1556337
+"NO","Norway",6.51086078548891,2000,"NOR","Europe & Central Asia (all income levels)",292440
+"NP","Nepal",3.02399163947819,2000,"NPL","South Asia",717900
+"NR","Nauru",23.8398725353515,2000,NA,NA,2394
+"NZ","New Zealand",17.5938784428316,2000,"NZL","East Asia & Pacific (all income levels)",678813
+"OE","OECD members",7.45213941122979,2000,"OED","Aggregates",85879627
+"OM","Oman",27.847064597127,2000,"OMN","Middle East & North Africa (all income levels)",623608
+"PA","Panama",2.75394048569856,2000,"PAN","Latin America & Caribbean (all income levels)",83410
+"PE","Peru",0.255810610701383,2000,"PER","Latin America & Caribbean (all income levels)",66293
+"PF","French Polynesia",12.7826457113716,2000,"PYF","East Asia & Pacific (all income levels)",30329
+"PG","Papua New Guinea",0.467077815227284,2000,"PNG","East Asia & Pacific (all income levels)",25101
+"PH","Philippines",0.40816864936539,2000,"PHL","East Asia & Pacific (all income levels)",318095
+"PK","Pakistan",3.02488048378448,2000,"PAK","South Asia",4181912
+"PL","Poland",2.14427183903469,2000,"POL","Europe & Central Asia (all income levels)",825251
+"PR","Puerto Rico",9.35053401636721,2000,"PRI","Latin America & Caribbean (all income levels)",355038
+"PS","West Bank and Gaza",8.53662205962502,2000,"PSE","Middle East & North Africa (all income levels)",275202
+"PT","Portugal",6.33817520033483,2000,"PRT","Europe & Central Asia (all income levels)",651472
+"PW","Palau",32.9091478043184,2000,"PLW","East Asia & Pacific (all income levels)",6310
+"PY","Paraguay",3.33052784589293,2000,"PRY","Latin America & Caribbean (all income levels)",176608
+"QA","Qatar",60.610865561384,2000,"QAT","Middle East & North Africa (all income levels)",359697
+"RO","Romania",0.573699396953354,2000,"ROU","Europe & Central Asia (all income levels)",126949
+"RS","Serbia",9.05352738250248,2000,"SRB","Europe & Central Asia (all income levels)",856763
+"RU","Russian Federation",8.12856536703781,2000,"RUS","Europe & Central Asia (all income levels)",11900297
+"RW","Rwanda",4.32661940007791,2000,"RWA","Sub-Saharan Africa (all income levels)",347076
+"S1","Small states",7.71238962748482,2000,"SST","Aggregates",2214658
+"S2","Pacific island small states",2.30267328865376,2000,"PSS","Aggregates",45219
+"S3","Caribbean small states",3.99319287007411,2000,"CSS","Aggregates",257852
+"S4","Other small states",9.4188021032622,2000,"OSS","Aggregates",1911587
+"SA","Saudi Arabia",24.6041502929586,2000,"SAU","Middle East & North Africa (all income levels)",5263387
+"SB","Solomon Islands",0.96547475844942,2000,"SLB","East Asia & Pacific (all income levels)",3981
+"SC","Seychelles",8.10064815043005,2000,"SYC","Sub-Saharan Africa (all income levels)",6574
+"SD","Sudan",2.85574286074078,2000,"SDN","Sub-Saharan Africa (all income levels)",801883
+"SE","Sweden",11.3138623605827,2000,"SWE","Europe & Central Asia (all income levels)",1003798
+"SG","Singapore",34.4979037477321,2000,"SGP","East Asia & Pacific (all income levels)",1351691
+"SI","Slovenia",8.59969466754364,2000,"SVN","Europe & Central Asia (all income levels)",171018
+"SK","Slovak Republic",2.16068688365254,2000,"SVK","Europe & Central Asia (all income levels)",116376
+"SL","Sierra Leone",2.41930657922053,2000,"SLE","Sub-Saharan Africa (all income levels)",98241
+"SM","San Marino",14.7520058351568,2000,"SMR","Europe & Central Asia (all income levels)",4045
+"SN","Senegal",2.35179925558116,2000,"SEN","Sub-Saharan Africa (all income levels)",231901
+"SO","Somalia",0.271981970954649,2000,"SOM","Sub-Saharan Africa (all income levels)",20087
+"SR","Suriname",5.72146495795121,2000,"SUR","Latin America & Caribbean (all income levels)",27506
+"ST","Sao Tome and Principe",3.18232189204164,2000,"STP","Sub-Saharan Africa (all income levels)",4365
+"SV","El Salvador",0.545662334587555,2000,"SLV","Latin America & Caribbean (all income levels)",31713
+"SY","Syrian Arab Republic",5.08909413876074,2000,"SYR","Middle East & North Africa (all income levels)",832273
+"SZ","Swaziland",2.1486018341379,2000,"SWZ","Sub-Saharan Africa (all income levels)",22855
+"T2","Latin America & the Caribbean (IDA & IBRD countries)",1.12695431935979,2000,NA,NA,5746878
+"T3","Middle East & North Africa (IDA & IBRD countries)",2.82642950501248,2000,NA,NA,7791841
+"T4","East Asia & Pacific (IDA & IBRD countries)",0.226639383096982,2000,NA,NA,4065406
+"T5","South Asia (IDA & IBRD)",0.900061072964771,2000,NA,NA,12474215
+"T6","Sub-Saharan Africa (IDA & IBRD countries)",2.03456648983498,2000,NA,NA,13469475
+"T7","Europe & Central Asia (IDA & IBRD countries)",6.70161308360229,2000,NA,NA,29190606
+"TC","Turks and Caicos Islands",47.7590591226955,2000,"TCA","Latin America & Caribbean (all income levels)",9015
+"TD","Chad",1.25639418643967,2000,"TCD","Sub-Saharan Africa (all income levels)",104825
+"TG","Togo",2.82868709786276,2000,"TGO","Sub-Saharan Africa (all income levels)",137891
+"TH","Thailand",2.00630778506202,2000,"THA","East Asia & Pacific (all income levels)",1257821
+"TJ","Tajikistan",4.83767615150743,2000,"TJK","Europe & Central Asia (all income levels)",299266
+"TL","Timor-Leste",1.25143858779369,2000,"TLS","East Asia & Pacific (all income levels)",10602
+"TM","Turkmenistan",4.8539804892635,2000,"TKM","Europe & Central Asia (all income levels)",218498
+"TN","Tunisia",0.375763259455014,2000,"TUN","Middle East & North Africa (all income levels)",36446
+"TO","Tonga",3.76310036977262,2000,"TON","East Asia & Pacific (all income levels)",3684
+"TR","Turkey",2.02555316236802,2000,"TUR","Europe & Central Asia (all income levels)",1280963
+"TT","Trinidad and Tobago",3.29287528194451,2000,"TTO","Latin America & Caribbean (all income levels)",41753
+"TV","Tuvalu",2.30385391230492,2000,"TUV","East Asia & Pacific (all income levels)",217
+"TZ","Tanzania",2.73061660251845,2000,"TZA","Sub-Saharan Africa (all income levels)",928180
+"UA","Ukraine",11.3384821308068,2000,"UKR","Europe & Central Asia (all income levels)",5527087
+"UG","Uganda",2.67157473075183,2000,"UGA","Sub-Saharan Africa (all income levels)",634703
+"US","United States",12.3063192386484,2000,"USA","North America",34814053
+"UY","Uruguay",2.67583632869872,2000,"URY","Latin America & Caribbean (all income levels)",88871
+"UZ","Uzbekistan",5.73145148942692,2000,"UZB","Europe & Central Asia (all income levels)",1405250
+"V1","Pre-demographic dividend",1.96994445085527,2000,NA,NA,10751023
+"V2","Early-demographic dividend",1.54467817283015,2000,NA,NA,38155943
+"V3","Late-demographic dividend",1.48622772717735,2000,NA,NA,30615531
+"V4","Post-demographic dividend",9.07178205753149,2000,NA,NA,92403421
+"VC","St. Vincent and the Grenadines",3.99176992872832,2000,"VCT","Latin America & Caribbean (all income levels)",4307
+"VE","Venezuela, RB",4.14053040999119,2000,"VEN","Latin America & Caribbean (all income levels)",1013663
+"VG","British Virgin Islands",58.4120525117473,2000,NA,NA,12058
+"VI","Virgin Islands (U.S.)",52.1707476661352,2000,"VIR","Latin America & Caribbean (all income levels)",56611
+"VN","Vietnam",0.070690168791617,2000,"VNM","East Asia & Pacific (all income levels)",56754
+"VU","Vanuatu",1.419014579213,2000,"VUT","East Asia & Pacific (all income levels)",2626
+"WS","Samoa",3.43500521149507,2000,"WSM","East Asia & Pacific (all income levels)",5998
+"XC","Euro area",8.18586008749896,2000,"EMU","Aggregates",26129209
+"XD","High income",9.60754899439461,2000,"HIC","Aggregates",100942762
+"XE","Heavily indebted poor countries (HIPC)",2.24256907153219,2000,"HPC","Aggregates",10632626
+"XF","IBRD only",1.3195203752767,2000,NA,NA,51503383
+"XG","IDA total",1.81761505322103,2000,NA,NA,21235038
+"XH","IDA blend",1.72564129307321,2000,NA,NA,7535501
+"XI","IDA only",1.87231965042761,2000,NA,NA,13699537
+"XJ","Latin America & Caribbean (excluding high income)",0.837610292935198,2000,NA,NA,3887579
+"XL","Least developed countries: UN classification",1.53229890717659,2000,"LDC","Aggregates",10077824
+"XM","Low income",1.85453904254329,2000,"LIC","Aggregates",7732730
+"XN","Lower middle income",1.21802481424838,2000,"LMC","Aggregates",28155713
+"XO","Low & middle income",1.39311747444151,2000,"LMY","Aggregates",69795902
+"XP","Middle income",1.35108723455735,2000,"MIC","Aggregates",62063172
+"XQ","Middle East & North Africa (excluding high income)",2.88632621109007,2000,NA,NA,8067043
+"XT","Upper middle income",1.48673429639792,2000,"UMC","Aggregates",33907459
+"XU","North America",12.8644511761419,2000,"NAC","Aggregates",40343635
+"YE","Yemen, Rep.",0.806368272287068,2000,"YEM","Middle East & North Africa (all income levels)",143495
+"Z4","East Asia & Pacific",0.775438124036256,2000,NA,NA,15674381
+"Z7","Europe & Central Asia",7.44315798702924,2000,NA,NA,64005283
+"ZA","South Africa",2.23139232733802,2000,"ZAF","Sub-Saharan Africa (all income levels)",1001825
+"ZF","Sub-Saharan Africa (excluding high income)",2.0338219041742,2000,NA,NA,13462901
+"ZG","Sub-Saharan Africa",2.03456648983498,2000,NA,NA,13469475
+"ZJ","Latin America & Caribbean",1.2008213010895,2000,NA,NA,6311653
+"ZM","Zambia",3.03410793540427,2000,"ZMB","Sub-Saharan Africa (all income levels)",321167
+"ZQ","Middle East & North Africa",6.36525991760969,2000,NA,NA,20000241
+"ZT","IDA & IBRD total",1.43441469565082,2000,NA,NA,72738421
+"ZW","Zimbabwe",3.28033298610614,2000,"ZWE","Sub-Saharan Africa (all income levels)",410041
+"1A","Arab World",5.88111485045462,1995,"ARB","Aggregates",14871274
+"1W","World",2.82660949732546,1995,"WLD","Aggregates",160448332
+"4E","East Asia & Pacific (excluding high income)",0.18621758359771,1995,NA,NA,3204871
+"7E","Europe & Central Asia (excluding high income)",7.45379116893549,1995,NA,NA,29125371
+"8S","South Asia",0.985383325748287,1995,"SAS","Aggregates",12405351
+"AD","Andorra",63.4650922416763,1995,"AND","Europe & Central Asia (all income levels)",40525
+"AE","United Arab Emirates",77.6157011852649,1995,"ARE","Middle East & North Africa (all income levels)",1824118
+"AF","Afghanistan",0.426423646962574,1995,"AFG","South Asia",71522
+"AG","Antigua and Barbuda",25.6770398981697,1995,"ATG","Latin America & Caribbean (all income levels)",17550
+"AL","Albania",2.29675797068748,1995,"ALB","Europe & Central Asia (all income levels)",71354
+"AM","Armenia",21.5315467087867,1995,"ARM","Europe & Central Asia (all income levels)",693999
+"AO","Angola",0.305252009060111,1995,"AGO","Sub-Saharan Africa (all income levels)",39813
+"AR","Argentina",4.5580148466553,1995,"ARG","Latin America & Caribbean (all income levels)",1595069
+"AS","American Samoa",43.6849869501078,1995,"ASM","East Asia & Pacific (all income levels)",23098
+"AT","Austria",11.224278747592,1995,"AUT","Europe & Central Asia (all income levels)",894893
+"AU","Australia",22.9152149241066,1995,"AUS","East Asia & Pacific (all income levels)",4153330
+"AW","Aruba",27.7295022782163,1995,"ABW","Latin America & Caribbean (all income levels)",22274
+"AZ","Azerbaijan",4.42772602996394,1995,"AZE","Europe & Central Asia (all income levels)",344070
+"B8","Central Europe and the Baltics",3.33967901553609,1995,NA,NA,3665285
+"BA","Bosnia and Herzegovina",1.79095182144719,1995,"BIH","Europe & Central Asia (all income levels)",69476
+"BB","Barbados",9.89726828752802,1995,"BRB","Latin America & Caribbean (all income levels)",26224
+"BD","Bangladesh",0.789287019240285,1995,"BGD","South Asia",934735
+"BE","Belgium",8.71172497622003,1995,"BEL","Europe & Central Asia (all income levels)",885278
+"BF","Burkina Faso",4.30974572928349,1995,"BFA","Sub-Saharan Africa (all income levels)",434848
+"BG","Bulgaria",0.388065922990301,1995,"BGR","Europe & Central Asia (all income levels)",32435
+"BH","Bahrain",36.5385911695315,1995,"BHR","Middle East & North Africa (all income levels)",205979
+"BI","Burundi",4.08481767197786,1995,"BDI","Sub-Saharan Africa (all income levels)",254853
+"BJ","Benin",1.75370861482564,1995,"BEN","Sub-Saharan Africa (all income levels)",104971
+"BM","Bermuda",26.5990365904233,1995,"BMU","North America",16676
+"BN","Brunei Darussalam",28.7271617911257,1995,"BRN","East Asia & Pacific (all income levels)",84748
+"BO","Bolivia",1.10481218007918,1995,"BOL","Latin America & Caribbean (all income levels)",83598
+"BR","Brazil",0.45562763292131,1995,"BRA","Latin America & Caribbean (all income levels)",741557
+"BS","Bahamas, The",11.2989066610506,1995,"BHS","Latin America & Caribbean (all income levels)",31654
+"BT","Bhutan",5.4965936132459,1995,"BTN","South Asia",27972
+"BW","Botswana",2.54826044175853,1995,"BWA","Sub-Saharan Africa (all income levels)",40168
+"BY","Belarus",11.6763130834862,1995,"BLR","Europe & Central Asia (all income levels)",1186282
+"BZ","Belize",16.1604545762024,1995,"BLZ","Latin America & Caribbean (all income levels)",33446
+"CA","Canada",16.6036336893101,1995,"CAN","North America",4864778
+"CD","Congo, Dem. Rep.",4.30727140060526,1995,"COD","Sub-Saharan Africa (all income levels)",1816963
+"CF","Central African Republic",2.9891121876349,1995,"CAF","Sub-Saharan Africa (all income levels)",99712
+"CG","Congo, Rep.",7.04209825019651,1995,"COG","Sub-Saharan Africa (all income levels)",191635
+"CH","Switzerland",21.074820415782,1995,"CHE","Europe & Central Asia (all income levels)",1478829
+"CI","Cote d'Ivoire",14.4150582393917,1995,"CIV","Sub-Saharan Africa (all income levels)",2076394
+"CL","Chile",1.00336156453867,1995,"CHL","Latin America & Caribbean (all income levels)",142417
+"CM","Cameroon",1.77222923168869,1995,"CMR","Sub-Saharan Africa (all income levels)",246864
+"CN","China",0.0360142639641385,1995,"CHN","East Asia & Pacific (all income levels)",442198
+"CO","Colombia",0.285623249625153,1995,"COL","Latin America & Caribbean (all income levels)",106943
+"CR","Costa Rica",10.3758126419676,1995,"CRI","Latin America & Caribbean (all income levels)",364287
+"CU","Cuba",0.240114475931153,1995,"CUB","Latin America & Caribbean (all income levels)",26187
+"CV","Cabo Verde",2.5642672861269,1995,NA,NA,9979
+"CY","Cyprus",7.24126683883005,1995,"CYP","Europe & Central Asia (all income levels)",61941
+"CZ","Czech Republic",1.60215860665841,1995,"CZE","Europe & Central Asia (all income levels)",165592
+"DE","Germany",9.14611048008342,1995,"DEU","Europe & Central Asia (all income levels)",7464406
+"DJ","Djibouti",15.0926671063539,1995,"DJI","Middle East & North Africa (all income levels)",99774
+"DK","Denmark",5.79270425193528,1995,"DNK","Europe & Central Asia (all income levels)",303108
+"DM","Dominica",4.37316967225749,1995,"DMA","Latin America & Caribbean (all income levels)",3121
+"DO","Dominican Republic",4.09736177243482,1995,"DOM","Latin America & Caribbean (all income levels)",323381
+"DZ","Algeria",0.906550236470006,1995,"DZA","Middle East & North Africa (all income levels)",262032
+"EC","Ecuador",1.00600704020497,1995,"ECU","Latin America & Caribbean (all income levels)",115093
+"EE","Estonia",22.0333743639556,1995,"EST","Europe & Central Asia (all income levels)",315755
+"EG","Egypt, Arab Rep.",0.26740812819804,1995,"EGY","Middle East & North Africa (all income levels)",166955
+"ER","Eritrea",0.391897209154592,1995,"ERI","Sub-Saharan Africa (all income levels)",12400
+"ES","Spain",2.56528556153192,1995,"ESP","Europe & Central Asia (all income levels)",1020067
+"ET","Ethiopia",1.40975385494748,1995,"ETH","Sub-Saharan Africa (all income levels)",806904
+"EU","European Union",6.31918557529132,1995,"EUU","Aggregates",30456543
+"F1","Fragile and conflict affected situations",3.29069518976099,1995,NA,NA,9576854
+"FI","Finland",1.95234071809585,1995,"FIN","Europe & Central Asia (all income levels)",99729
+"FJ","Fiji",1.6764711192034,1995,"FJI","East Asia & Pacific (all income levels)",13001
+"FM","Micronesia, Fed. Sts.",3.10721856521254,1995,"FSM","East Asia & Pacific (all income levels)",3342
+"FO","Faroe Islands",6.57611283702578,1995,NA,NA,2900
+"FR","France",10.4561480959131,1995,"FRA","Europe & Central Asia (all income levels)",6087993
+"GA","Gabon",14.0799982327748,1995,"GAB","Sub-Saharan Africa (all income levels)",152972
+"GB","United Kingdom",7.1762021104318,1995,"GBR","Europe & Central Asia (all income levels)",4155293
+"GD","Grenada",5.5300090770351,1995,"GRD","Latin America & Caribbean (all income levels)",5544
+"GE","Georgia",5.4952070624413,1995,"GEO","Europe & Central Asia (all income levels)",278450
+"GH","Ghana",1.5087353725087,1995,"GHA","Sub-Saharan Africa (all income levels)",252879
+"GI","Gibraltar",30.7165109034268,1995,"GIB","Europe & Central Asia (all income levels)",8381
+"GL","Greenland",13.1161640595603,1995,"GRL","Europe & Central Asia (all income levels)",7320
+"GM","Gambia, The",14.1581577599165,1995,"GMB","Sub-Saharan Africa (all income levels)",150890
+"GN","Guinea",9.84995230212057,1995,"GIN","Sub-Saharan Africa (all income levels)",774505
+"GQ","Equatorial Guinea",0.809444786452896,1995,"GNQ","Sub-Saharan Africa (all income levels)",3629
+"GR","Greece",8.06161428316757,1995,"GRC","Europe & Central Asia (all income levels)",857850
+"GT","Guatemala",1.50799132674233,1995,"GTM","Latin America & Caribbean (all income levels)",156188
+"GU","Guam",49.4030035311414,1995,"GUM","East Asia & Pacific (all income levels)",71912
+"GW","Guinea-Bissau",2.36781646183303,1995,"GNB","Sub-Saharan Africa (all income levels)",27961
+"GY","Guyana",0.874094358706197,1995,"GUY","Latin America & Caribbean (all income levels)",6352
+"HK","Hong Kong SAR, China",39.7721343549953,1995,"HKG","East Asia & Pacific (all income levels)",2443798
+"HN","Honduras",2.67283786336086,1995,"HND","Latin America & Caribbean (all income levels)",149442
+"HR","Croatia",14.6008176293255,1995,"HRV","Europe & Central Asia (all income levels)",674085
+"HT","Haiti",0.287193825524572,1995,"HTI","Latin America & Caribbean (all income levels)",22458
+"HU","Hungary",3.11277228329151,1995,"HUN","Europe & Central Asia (all income levels)",322234
+"ID","Indonesia",0.192406654327478,1995,"IDN","East Asia & Pacific (all income levels)",378960
+"IE","Ireland",6.22417759913841,1995,"IRL","Europe & Central Asia (all income levels)",226892
+"IL","Israel",33.6142547239846,1995,"ISR","Middle East & North Africa (all income levels)",1792185
+"IM","Isle of Man",51.1020905778529,1995,"IMN","Europe & Central Asia (all income levels)",36886
+"IN","India",0.723532002626331,1995,"IND","South Asia",6952238
+"IQ","Iraq",0.986558401452901,1995,"IRQ","Middle East & North Africa (all income levels)",199460
+"IR","Iran, Islamic Rep.",4.87024970990721,1995,"IRN","Middle East & North Africa (all income levels)",2937668
+"IS","Iceland",4.76268816319816,1995,"ISL","Europe & Central Asia (all income levels)",12738
+"IT","Italy",3.1074050664025,1995,"ITA","Europe & Central Asia (all income levels)",1774954
+"JG","Channel Islands",42.0124956612287,1995,"CHI","Europe & Central Asia (all income levels)",60519
+"JM","Jamaica",0.912337218923978,1995,"JAM","Latin America & Caribbean (all income levels)",22713
+"JO","Jordan",35.5796477814006,1995,"JOR","Middle East & North Africa (all income levels)",1537097
+"JP","Japan",1.10946363450103,1995,"JPN","East Asia & Pacific (all income levels)",1381097
+"KE","Kenya",2.26041796242178,1995,"KEN","Sub-Saharan Africa (all income levels)",618745
+"KG","Kyrgyz Republic",11.1123910773529,1995,"KGZ","Europe & Central Asia (all income levels)",510296
+"KH","Cambodia",0.862409215837846,1995,"KHM","East Asia & Pacific (all income levels)",92230
+"KI","Kiribati",2.86001003512293,1995,"KIR","East Asia & Pacific (all income levels)",2223
+"KM","Comoros",2.9065378857069,1995,"COM","Sub-Saharan Africa (all income levels)",13939
+"KN","St. Kitts and Nevis",9.90486849468383,1995,"KNA","Latin America & Caribbean (all income levels)",4248
+"KP","Korea, Dem. People’s Rep.",0.161475523199901,1995,NA,NA,35143
+"KR","Korea, Rep.",0.27744164254697,1995,"KOR","East Asia & Pacific (all income levels)",123886
+"KW","Kuwait",56.318664704578,1995,"KWT","Middle East & North Africa (all income levels)",921954
+"KY","Cayman Islands",45.2134377368022,1995,"CYM","Latin America & Caribbean (all income levels)",14320
+"KZ","Kazakhstan",20.3771677014687,1995,"KAZ","Europe & Central Asia (all income levels)",3245250
+"LA","Lao PDR",0.484295893551244,1995,"LAO","East Asia & Pacific (all income levels)",23526
+"LB","Lebanon",20.0534646532643,1995,"LBN","Middle East & North Africa (all income levels)",608303
+"LC","St. Lucia",4.86398258977149,1995,"LCA","Latin America & Caribbean (all income levels)",7152
+"LI","Liechtenstein",43.1712775273246,1995,"LIE","Europe & Central Asia (all income levels)",13311
+"LK","Sri Lanka",0.223805493457384,1995,"LKA","South Asia",40841
+"LR","Liberia",10.0274481578868,1995,"LBR","Sub-Saharan Africa (all income levels)",208563
+"LS","Lesotho",0.410759574506906,1995,"LSO","Sub-Saharan Africa (all income levels)",7204
+"LT","Lithuania",7.54082256753505,1995,"LTU","Europe & Central Asia (all income levels)",273587
+"LU","Luxembourg",30.8971255524957,1995,"LUX","Europe & Central Asia (all income levels)",126106
+"LV","Latvia",21.6276364677,1995,"LVA","Europe & Central Asia (all income levels)",538093
+"LY","Libya",10.4145133801347,1995,"LBY","Middle East & North Africa (all income levels)",508041
+"MA","Morocco",0.185406839708387,1995,"MAR","Middle East & North Africa (all income levels)",50360
+"MC","Monaco",68.599348534202,1995,"MCO","Europe & Central Asia (all income levels)",21060
+"MD","Moldova",8.46333394943907,1995,"MDA","Europe & Central Asia (all income levels)",367231
+"MG","Madagascar",0.157420249550159,1995,"MDG","Sub-Saharan Africa (all income levels)",21177
+"MH","Marshall Islands",2.90082320658565,1995,"MHL","East Asia & Pacific (all income levels)",1480
+"MK","Macedonia, FYR",5.59716085227668,1995,"MKD","Europe & Central Asia (all income levels)",109343
+"ML","Mali",1.82754407563894,1995,"MLI","Sub-Saharan Africa (all income levels)",176187
+"MM","Myanmar",0.254217475364134,1995,"MMR","East Asia & Pacific (all income levels)",113663
+"MN","Mongolia",0.323058191378907,1995,"MNG","East Asia & Pacific (all income levels)",7424
+"MO","Macao SAR, China",56.4497225561476,1995,"MAC","East Asia & Pacific (all income levels)",224929
+"MP","Northern Mariana Islands",56.2884662192705,1995,"MNP","East Asia & Pacific (all income levels)",32376
+"MR","Mauritania",3.83733096369013,1995,"MRT","Sub-Saharan Africa (all income levels)",89562
+"MT","Malta",4.76381008133924,1995,"MLT","Middle East & North Africa (all income levels)",17740
+"MU","Mauritius",0.663875195361645,1995,"MUS","Sub-Saharan Africa (all income levels)",7493
+"MV","Maldives",7.28539378911324,1995,"MDV","South Asia",18510
+"MW","Malawi",2.45982514986544,1995,"MWI","Sub-Saharan Africa (all income levels)",241624
+"MX","Mexico",0.48561244371919,1995,"MEX","Latin America & Caribbean (all income levels)",458549
+"MY","Malaysia",4.52280378631527,1995,"MYS","East Asia & Pacific (all income levels)",937368
+"MZ","Mozambique",1.05734262605384,1995,"MOZ","Sub-Saharan Africa (all income levels)",168256
+"NA","Namibia",6.97443015232612,1995,"NAM","Sub-Saharan Africa (all income levels)",115372
+"NC","New Caledonia",23.0774109662893,1995,"NCL","East Asia & Pacific (all income levels)",43662
+"NE","Niger",1.55949981157695,1995,"NER","Sub-Saharan Africa (all income levels)",145999
+"NG","Nigeria",0.42702306672913,1995,"NGA","Sub-Saharan Africa (all income levels)",462999
+"NI","Nicaragua",0.577139599963488,1995,"NIC","Latin America & Caribbean (all income levels)",26619
+"NL","Netherlands",8.71258276996995,1995,"NLD","Europe & Central Asia (all income levels)",1346164
+"NO","Norway",5.35122349985825,1995,"NOR","Europe & Central Asia (all income levels)",233302
+"NP","Nepal",3.22672182406495,1995,"NPL","South Asia",690225
+"NR","Nauru",26.1283851554664,1995,NA,NA,2605
+"NZ","New Zealand",16.017285978395,1995,"NZL","East Asia & Pacific (all income levels)",588617
+"OE","OECD members",6.63235488251505,1995,"OED","Aggregates",73620579
+"OM","Oman",24.6202775354675,1995,"OMN","Middle East & North Africa (all income levels)",539643
+"PA","Panama",2.58746404930381,1995,"PAN","Latin America & Caribbean (all income levels)",70848
+"PE","Peru",0.236002179979243,1995,"PER","Latin America & Caribbean (all income levels)",56732
+"PF","French Polynesia",13.17843866171,1995,"PYF","East Asia & Pacific (all income levels)",28360
+"PG","Papua New Guinea",0.710909769845984,1995,"PNG","East Asia & Pacific (all income levels)",33526
+"PH","Philippines",0.296903963735575,1995,"PHL","East Asia & Pacific (all income levels)",207345
+"PK","Pakistan",2.99291640474729,1995,"PAK","South Asia",3669308
+"PL","Poland",2.49981472776902,1995,"POL","Europe & Central Asia (all income levels)",964725
+"PR","Puerto Rico",9.16257887945439,1995,"PRI","Latin America & Caribbean (all income levels)",338067
+"PS","West Bank and Gaza",10.7615633517068,1995,"PSE","Middle East & North Africa (all income levels)",281767
+"PT","Portugal",5.2867554483431,1995,"PRT","Europe & Central Asia (all income levels)",532822
+"PW","Palau",27.5224572587656,1995,"PLW","East Asia & Pacific (all income levels)",4749
+"PY","Paraguay",3.91883555320864,1995,"PRY","Latin America & Caribbean (all income levels)",186570
+"QA","Qatar",72.1874819118636,1995,"QAT","Middle East & North Africa (all income levels)",361673
+"RO","Romania",0.58800899189532,1995,"ROU","Europe & Central Asia (all income levels)",135037
+"RS","Serbia",6.37607943063569,1995,"SRB","Europe & Central Asia (all income levels)",630221
+"RU","Russian Federation",8.04414617211375,1995,"RUS","Europe & Central Asia (all income levels)",11928927
+"RW","Rwanda",3.94401594518968,1995,"RWA","Sub-Saharan Africa (all income levels)",233200
+"S1","Small states",7.74977974122424,1995,"SST","Aggregates",2057627
+"S2","Pacific island small states",2.29507235423277,1995,"PSS","Aggregates",42270
+"S3","Caribbean small states",3.71620013859053,1995,"CSS","Aggregates",230403
+"S4","Other small states",9.64222616834152,1995,"OSS","Aggregates",1784954
+"SA","Saudi Arabia",27.1708479038829,1995,"SAU","Middle East & North Africa (all income levels)",5122702
+"SB","Solomon Islands",1.16302375040363,1995,"SLB","East Asia & Pacific (all income levels)",4178
+"SC","Seychelles",6.71160189301592,1995,"SYC","Sub-Saharan Africa (all income levels)",5148
+"SD","Sudan",4.26614806352025,1995,"SDN","Sub-Saharan Africa (all income levels)",1053396
+"SE","Sweden",10.60441477695,1995,"SWE","Europe & Central Asia (all income levels)",936022
+"SG","Singapore",28.4695927078204,1995,"SGP","East Asia & Pacific (all income levels)",991492
+"SI","Slovenia",8.75822940345581,1995,"SVN","Europe & Central Asia (all income levels)",174419
+"SK","Slovak Republic",1.29262812444643,1995,"SVK","Europe & Central Asia (all income levels)",69323
+"SL","Sierra Leone",2.74568262552025,1995,"SLE","Sub-Saharan Africa (all income levels)",105374
+"SM","San Marino",14.1410628019324,1995,"SMR","Europe & Central Asia (all income levels)",3659
+"SN","Senegal",3.3022889199157,1995,"SEN","Sub-Saharan Africa (all income levels)",287654
+"SO","Somalia",0.307684308053019,1995,"SOM","Sub-Saharan Africa (all income levels)",19527
+"SR","Suriname",4.99517753403764,1995,"SUR","Latin America & Caribbean (all income levels)",22270
+"ST","Sao Tome and Principe",3.92699731092972,1995,"STP","Sub-Saharan Africa (all income levels)",4936
+"SV","El Salvador",0.707439937746287,1995,"SLV","Latin America & Caribbean (all income levels)",39537
+"SY","Syrian Arab Republic",5.79550797022766,1995,"SYR","Middle East & North Africa (all income levels)",830610
+"SZ","Swaziland",2.59811838559809,1995,"SWZ","Sub-Saharan Africa (all income levels)",25031
+"T2","Latin America & the Caribbean (IDA & IBRD countries)",1.25853761826119,1995,NA,NA,5925237
+"T3","Middle East & North Africa (IDA & IBRD countries)",2.94389502707929,1995,NA,NA,7374682
+"T4","East Asia & Pacific (IDA & IBRD countries)",0.185330229533086,1995,NA,NA,3149235
+"T5","South Asia (IDA & IBRD)",0.985383325748287,1995,NA,NA,12405351
+"T6","Sub-Saharan Africa (IDA & IBRD countries)",2.6044011889181,1995,NA,NA,15120927
+"T7","Europe & Central Asia (IDA & IBRD countries)",7.08849244158281,1995,NA,NA,30764181
+"TC","Turks and Caicos Islands",45.9045258901787,1995,"TCA","Latin America & Caribbean (all income levels)",7039
+"TD","Chad",1.27947276307216,1995,"TCD","Sub-Saharan Africa (all income levels)",89584
+"TG","Togo",2.37106019532776,1995,"TGO","Sub-Saharan Africa (all income levels)",101583
+"TH","Thailand",1.3662450376977,1995,"THA","East Asia & Pacific (all income levels)",809720
+"TJ","Tajikistan",6.02225322552482,1995,"TJK","Europe & Central Asia (all income levels)",348347
+"TL","Timor-Leste",1.13761750690942,1995,"TLS","East Asia & Pacific (all income levels)",9743
+"TM","Turkmenistan",6.532099971108,1995,"TKM","Europe & Central Asia (all income levels)",273565
+"TN","Tunisia",0.415482952986909,1995,"TUN","Middle East & North Africa (all income levels)",37867
+"TO","Tonga",3.41436452564945,1995,"TON","East Asia & Pacific (all income levels)",3274
+"TR","Turkey",2.07813531657665,1995,"TUR","Europe & Central Asia (all income levels)",1216173
+"TT","Trinidad and Tobago",3.66485763756364,1995,"TTO","Latin America & Caribbean (all income levels)",45994
+"TV","Tuvalu",2.85033055164192,1995,"TUV","East Asia & Pacific (all income levels)",263
+"TZ","Tanzania",3.69872865994284,1995,"TZA","Sub-Saharan Africa (all income levels)",1106043
+"UA","Ukraine",12.1474803634196,1995,"UKR","Europe & Central Asia (all income levels)",6172338
+"UG","Uganda",3.10890621632808,1995,"UGA","Sub-Saharan Africa (all income levels)",634620
+"US","United States",10.6848170440958,1995,"USA","North America",28451053
+"UY","Uruguay",2.89716562882678,1995,"URY","Latin America & Caribbean (all income levels)",93428
+"UZ","Uzbekistan",6.66701899058229,1995,"UZB","Europe & Central Asia (all income levels)",1512577
+"V1","Pre-demographic dividend",2.58067736755374,1995,NA,NA,12305333
+"V2","Early-demographic dividend",1.68235675139078,1995,NA,NA,37838479
+"V3","Late-demographic dividend",1.4921324337722,1995,NA,NA,29407057
+"V4","Post-demographic dividend",8.12216778379353,1995,NA,NA,80577945
+"VC","St. Vincent and the Grenadines",3.82438356671168,1995,"VCT","Latin America & Caribbean (all income levels)",4135
+"VE","Venezuela, RB",4.59692245650945,1995,"VEN","Latin America & Caribbean (all income levels)",1019996
+"VG","British Virgin Islands",54.5237449118046,1995,NA,NA,10046
+"VI","Virgin Islands (U.S.)",50.6839970846026,1995,"VIR","Latin America & Caribbean (all income levels)",54241
+"VN","Vietnam",0.0681684823496597,1995,"VNM","East Asia & Pacific (all income levels)",51262
+"VU","Vanuatu",1.46282603010057,1995,"VUT","East Asia & Pacific (all income levels)",2461
+"WS","Samoa",2.75861258359877,1995,"WSM","East Asia & Pacific (all income levels)",4694
+"XC","Euro area",7.2207394758729,1995,"EMU","Aggregates",22768012
+"XD","High income",8.58923587861943,1995,"HIC","Aggregates",87292724
+"XE","Heavily indebted poor countries (HIPC)",3.04187219068777,1995,"HPC","Aggregates",12557332
+"XF","IBRD only",1.41988308714787,1995,NA,NA,51922556
+"XG","IDA total",2.19275768688695,1995,NA,NA,22817057
+"XH","IDA blend",1.80697633854552,1995,NA,NA,7138165
+"XI","IDA only",2.42698125309109,1995,NA,NA,15678892
+"XJ","Latin America & Caribbean (excluding high income)",0.947047631834261,1995,NA,NA,4052718
+"XL","Least developed countries: UN classification",2.0201766359809,1995,"LDC","Aggregates",11711703
+"XM","Low income",2.54508294702922,1995,"LIC","Aggregates",9287911
+"XN","Lower middle income",1.40053817662388,1995,"LMC","Aggregates",29510927
+"XO","Low & middle income",1.5431931994338,1995,"LMY","Aggregates",71560539
+"XP","Middle income",1.45731378340912,1995,"MIC","Aggregates",62272628
+"XQ","Middle East & North Africa (excluding high income)",3.02037392046544,1995,NA,NA,7656449
+"XT","Upper middle income",1.5129981554605,1995,"UMC","Aggregates",32761701
+"XU","North America",11.2756071392804,1995,"NAC","Aggregates",33332507
+"YE","Yemen, Rep.",0.894233495851966,1995,"YEM","Middle East & North Africa (all income levels)",136515
+"Z4","East Asia & Pacific",0.69747109590032,1995,NA,NA,13375683
+"Z7","Europe & Central Asia",7.1829454925121,1995,NA,NA,61316132
+"ZA","South Africa",2.4230854367015,1995,"ZAF","Sub-Saharan Africa (all income levels)",1003807
+"ZF","Sub-Saharan Africa (excluding high income)",2.60386642479235,1995,NA,NA,15115779
+"ZG","Sub-Saharan Africa",2.6044011889181,1995,NA,NA,15120927
+"ZJ","Latin America & Caribbean",1.32768742148181,1995,NA,NA,6455289
+"ZM","Zambia",2.64048508206655,1995,"ZMB","Sub-Saharan Africa (all income levels)",244338
+"ZQ","Middle East & North Africa",6.49112730095588,1995,NA,NA,18442443
+"ZT","IDA & IBRD total",1.59114947010202,1995,NA,NA,74739613
+"ZW","Zimbabwe",3.69101241310552,1995,"ZWE","Sub-Saharan Africa (all income levels)",431226
+"1A","Arab World",6.37092107497549,1990,"ARB","Aggregates",14168146
+"1W","World",2.89430818494262,1990,"WLD","Aggregates",152269004
+"4E","East Asia & Pacific (excluding high income)",0.160652832910913,1990,NA,NA,2583548
+"7E","Europe & Central Asia (excluding high income)",7.7704187656289,1990,NA,NA,29836824
+"8S","South Asia",1.33681927424899,1990,"SAS","Aggregates",15144742
+"AD","Andorra",71.3690814697951,1990,"AND","Europe & Central Asia (all income levels)",38904
+"AE","United Arab Emirates",72.1283076946857,1990,"ARE","Middle East & North Africa (all income levels)",1306574
+"AF","Afghanistan",0.478024987632141,1990,"AFG","South Asia",57686
+"AG","Antigua and Barbuda",19.4310729170032,1990,"ATG","Latin America & Caribbean (all income levels)",12029
+"AL","Albania",2.01170030471258,1990,"ALB","Europe & Central Asia (all income levels)",66013
+"AM","Armenia",18.5852097289047,1990,"ARM","Europe & Central Asia (all income levels)",658789
+"AO","Angola",0.301198701997777,1990,"AGO","Sub-Saharan Africa (all income levels)",33517
+"AR","Argentina",5.04103912832794,1990,"ARG","Latin America & Caribbean (all income levels)",1649919
+"AS","American Samoa",45.2406257971261,1990,"ASM","East Asia & Pacific (all income levels)",21283
+"AT","Austria",10.2930213709833,1990,"AUT","Europe & Central Asia (all income levels)",793239
+"AU","Australia",23.1341364316472,1990,"AUS","East Asia & Pacific (all income levels)",3955213
+"AW","Aruba",23.2412949732896,1990,"ABW","Latin America & Caribbean (all income levels)",14444
+"AZ","Azerbaijan",4.99688006781124,1990,"AZE","Europe & Central Asia (all income levels)",360600
+"B8","Central Europe and the Baltics",3.44119228362063,1990,NA,NA,3815082
+"BA","Bosnia and Herzegovina",1.23702340359921,1990,"BIH","Europe & Central Asia (all income levels)",56000
+"BB","Barbados",9.22672770706752,1990,"BRB","Latin America & Caribbean (all income levels)",24024
+"BD","Bangladesh",0.831846493011869,1990,"BGD","South Asia",881617
+"BE","Belgium",8.93481125581152,1990,"BEL","Europe & Central Asia (all income levels)",891537
+"BF","Burkina Faso",3.96839961897771,1990,"BFA","Sub-Saharan Africa (all income levels)",349657
+"BG","Bulgaria",0.243846835166228,1990,"BGR","Europe & Central Asia (all income levels)",21510
+"BH","Bahrain",34.9257174197087,1990,"BHR","Middle East & North Africa (all income levels)",173212
+"BI","Burundi",5.9344669945045,1990,"BDI","Sub-Saharan Africa (all income levels)",333110
+"BJ","Benin",1.52385263665976,1990,"BEN","Sub-Saharan Africa (all income levels)",76212
+"BM","Bermuda",25.7389506162709,1990,"BMU","North America",15683
+"BN","Brunei Darussalam",28.4892523128058,1990,"BRN","East Asia & Pacific (all income levels)",73200
+"BO","Bolivia",1.07577820282411,1990,"BOL","Latin America & Caribbean (all income levels)",73758
+"BR","Brazil",0.530953063465134,1990,"BRA","Latin America & Caribbean (all income levels)",798517
+"BS","Bahamas, The",10.4764022501541,1990,"BHS","Latin America & Caribbean (all income levels)",26855
+"BT","Bhutan",4.44571012408848,1990,"BTN","South Asia",23807
+"BW","Botswana",1.99374698328905,1990,"BWA","Sub-Saharan Africa (all income levels)",27510
+"BY","Belarus",12.2065976849258,1990,"BLR","Europe & Central Asia (all income levels)",1248977
+"BZ","Belize",16.2109708240915,1990,"BLZ","Latin America & Caribbean (all income levels)",30404
+"CA","Canada",15.6649883379774,1990,"CAN","North America",4333318
+"CD","Congo, Dem. Rep.",2.15714037449536,1990,"COD","Sub-Saharan Africa (all income levels)",754194
+"CF","Central African Republic",2.28855836548856,1990,"CAF","Sub-Saharan Africa (all income levels)",67234
+"CG","Congo, Rep.",5.430496210507,1990,"COG","Sub-Saharan Africa (all income levels)",129597
+"CH","Switzerland",20.8615326524741,1990,"CHE","Europe & Central Asia (all income levels)",1392282
+"CI","Cote d'Ivoire",14.9304585460897,1990,"CIV","Sub-Saharan Africa (all income levels)",1816426
+"CL","Chile",0.818045411675431,1990,"CHL","Latin America & Caribbean (all income levels)",107501
+"CM","Cameroon",2.19831075446886,1990,"CMR","Sub-Saharan Africa (all income levels)",265344
+"CN","China",0.0325964938683881,1990,"CHN","East Asia & Pacific (all income levels)",376361
+"CO","Colombia",0.304266834868313,1990,"COL","Latin America & Caribbean (all income levels)",104277
+"CR","Costa Rica",13.4893026278475,1990,"CRI","Latin America & Caribbean (all income levels)",417628
+"CU","Cuba",0.326542546164356,1990,"CUB","Latin America & Caribbean (all income levels)",34555
+"CV","Cabo Verde",2.61709684225332,1990,NA,NA,8931
+"CY","Cyprus",5.71411054628749,1990,"CYP","Europe & Central Asia (all income levels)",43805
+"CZ","Czech Republic",1.06932581639085,1990,"CZE","Europe & Central Asia (all income levels)",110394
+"DE","Germany",7.51812758939894,1990,"DEU","Europe & Central Asia (all income levels)",5936181
+"DJ","Djibouti",20.7733073173385,1990,"DJI","Middle East & North Africa (all income levels)",122221
+"DK","Denmark",4.57536594912546,1990,"DNK","Europe & Central Asia (all income levels)",235189
+"DM","Dominica",3.5514888337469,1990,"DMA","Latin America & Caribbean (all income levels)",2519
+"DO","Dominican Republic",4.05296975936732,1990,"DOM","Latin America & Caribbean (all income levels)",291151
+"DZ","Algeria",1.05723275576092,1990,"DZA","Middle East & North Africa (all income levels)",273954
+"EC","Ecuador",0.769840924204486,1990,"ECU","Latin America & Caribbean (all income levels)",78663
+"EE","Estonia",24.4037640865765,1990,"EST","Europe & Central Asia (all income levels)",381997
+"EG","Egypt, Arab Rep.",0.308007800306231,1990,"EGY","Middle East & North Africa (all income levels)",173708
+"ER","Eritrea",0.37743506622794,1990,"ERI","Sub-Saharan Africa (all income levels)",11848
+"ES","Spain",2.09635600889007,1990,"ESP","Europe & Central Asia (all income levels)",821605
+"ET","Ethiopia",2.40420280094339,1990,"ETH","Sub-Saharan Africa (all income levels)",1155390
+"EU","European Union",5.68001434052337,1990,"EUU","Aggregates",26957449
+"F1","Fragile and conflict affected situations",3.52034062072542,1990,NA,NA,8861984
+"FI","Finland",1.26847286935963,1990,"FIN","Europe & Central Asia (all income levels)",63255
+"FJ","Fiji",1.82302031494896,1990,"FJI","East Asia & Pacific (all income levels)",13283
+"FM","Micronesia, Fed. Sts.",3.82535217115986,1990,"FSM","East Asia & Pacific (all income levels)",3685
+"FO","Faroe Islands",8.92132164643668,1990,NA,NA,4285
+"FR","France",10.3563845150594,1990,"FRA","Europe & Central Asia (all income levels)",5897267
+"GA","Gabon",13.4394798108518,1990,"GAB","Sub-Saharan Africa (all income levels)",127980
+"GB","United Kingdom",6.39166261907676,1990,"GBR","Europe & Central Asia (all income levels)",3650286
+"GD","Grenada",4.4274349334275,1990,"GRD","Latin America & Caribbean (all income levels)",4263
+"GE","Georgia",6.19562006472527,1990,"GEO","Europe & Central Asia (all income levels)",338300
+"GH","Ghana",1.12693512420479,1990,"GHA","Sub-Saharan Africa (all income levels)",164851
+"GI","Gibraltar",32.4563038050162,1990,"GIB","Europe & Central Asia (all income levels)",8709
+"GL","Greenland",16.9343380752837,1990,"GRL","Europe & Central Asia (all income levels)",9416
+"GM","Gambia, The",12.8841167917924,1990,"GMB","Sub-Saharan Africa (all income levels)",118123
+"GN","Guinea",6.68902079885557,1990,"GIN","Sub-Saharan Africa (all income levels)",403621
+"GQ","Equatorial Guinea",0.726091323208688,1990,"GNQ","Sub-Saharan Africa (all income levels)",2740
+"GR","Greece",6.10101703192651,1990,"GRC","Europe & Central Asia (all income levels)",618139
+"GT","Guatemala",2.88535943529034,1990,"GTM","Latin America & Caribbean (all income levels)",264257
+"GU","Guam",53.4594810012109,1990,"GUM","East Asia & Pacific (all income levels)",69755
+"GW","Guinea-Bissau",1.45501643615651,1990,"GNB","Sub-Saharan Africa (all income levels)",15368
+"GY","Guyana",0.568527326797004,1990,"GUY","Latin America & Caribbean (all income levels)",4095
+"HK","Hong Kong SAR, China",38.2889192572912,1990,"HKG","East Asia & Pacific (all income levels)",2218473
+"HN","Honduras",5.5150516084573,1990,"HND","Latin America & Caribbean (all income levels)",270423
+"HR","Croatia",9.95395251711863,1990,"HRV","Europe & Central Asia (all income levels)",475438
+"HT","Haiti",0.268798840745138,1990,"HTI","Latin America & Caribbean (all income levels)",19084
+"HU","Hungary",3.34624900132989,1990,"HUN","Europe & Central Asia (all income levels)",347510
+"ID","Indonesia",0.256624866680176,1990,"IDN","East Asia & Pacific (all income levels)",465612
+"IE","Ireland",6.39781696082014,1990,"IRL","Europe & Central Asia (all income levels)",227961
+"IL","Israel",36.2890770079133,1990,"ISR","Middle East & North Africa (all income levels)",1632704
+"IM","Isle of Man",49.4495960860166,1990,"IMN","Europe & Central Asia (all income levels)",34769
+"IN","India",0.860692478072776,1990,"IND","South Asia",7493204
+"IQ","Iraq",0.478520555735618,1990,"IRQ","Middle East & North Africa (all income levels)",83638
+"IR","Iran, Islamic Rep.",7.64048856957112,1990,"IRN","Middle East & North Africa (all income levels)",4291601
+"IS","Iceland",3.76093866499235,1990,"ISL","Europe & Central Asia (all income levels)",9584
+"IT","Italy",2.50531433742571,1990,"ITA","Europe & Central Asia (all income levels)",1428219
+"JG","Channel Islands",43.8333961285002,1990,"CHI","Europe & Central Asia (all income levels)",61660
+"JM","Jamaica",0.858200541033093,1990,"JAM","Latin America & Caribbean (all income levels)",20475
+"JO","Jordan",34.1332452769177,1990,"JOR","Middle East & North Africa (all income levels)",1146349
+"JP","Japan",0.879862814739571,1990,"JPN","East Asia & Pacific (all income levels)",1075626
+"KE","Kenya",1.26797362595068,1990,"KEN","Sub-Saharan Africa (all income levels)",297292
+"KG","Kyrgyz Republic",14.1786941956108,1990,"KGZ","Europe & Central Asia (all income levels)",623083
+"KH","Cambodia",0.425969734669974,1990,"KHM","East Asia & Pacific (all income levels)",38375
+"KI","Kiribati",2.98573421165293,1990,"KIR","East Asia & Pacific (all income levels)",2162
+"KM","Comoros",3.39135336172509,1990,"COM","Sub-Saharan Africa (all income levels)",14079
+"KN","St. Kitts and Nevis",7.86128866358093,1990,"KNA","Latin America & Caribbean (all income levels)",3210
+"KP","Korea, Dem. People’s Rep.",0.168873933773767,1990,NA,NA,34103
+"KR","Korea, Rep.",0.10010412765409,1990,"KOR","East Asia & Pacific (all income levels)",43017
+"KW","Kuwait",52.1844910123798,1990,"KWT","Middle East & North Africa (all income levels)",1074391
+"KY","Cayman Islands",37.5344875844696,1990,"CYM","Latin America & Caribbean (all income levels)",9387
+"KZ","Kazakhstan",21.8947010794356,1990,"KAZ","Europe & Central Asia (all income levels)",3619200
+"LA","Lao PDR",0.538297237724876,1990,"LAO","East Asia & Pacific (all income levels)",22866
+"LB","Lebanon",19.3743736170556,1990,"LBN","Middle East & North Africa (all income levels)",523693
+"LC","St. Lucia",3.83919525256911,1990,"LCA","Latin America & Caribbean (all income levels)",5305
+"LI","Liechtenstein",37.9405113932858,1990,"LIE","Europe & Central Asia (all income levels)",10906
+"LK","Sri Lanka",0.239809813928564,1990,"LKA","South Asia",41561
+"LR","Liberia",4.51590844352761,1990,"LBR","Sub-Saharan Africa (all income levels)",94964
+"LS","Lesotho",0.515794968995965,1990,"LSO","Sub-Saharan Africa (all income levels)",8240
+"LT","Lithuania",9.44606104896071,1990,"LTU","Europe & Central Asia (all income levels)",349258
+"LU","Luxembourg",29.8058865283522,1990,"LUX","Europe & Central Asia (all income levels)",113795
+"LV","Latvia",24.2496485528259,1990,"LVA","Europe & Central Asia (all income levels)",646007
+"LY","Libya",10.3918021452708,1990,"LBY","Middle East & North Africa (all income levels)",457075
+"MA","Morocco",0.220018911325826,1990,"MAR","Middle East & North Africa (all income levels)",54895
+"MC","Monaco",69.1589102520552,1990,"MCO","Europe & Central Asia (all income levels)",20359
+"MD","Moldova",12.4690143291399,1990,"MDA","Europe & Central Asia (all income levels)",544162
+"MG","Madagascar",0.207149242901001,1990,"MDG","Sub-Saharan Africa (all income levels)",23917
+"MH","Marshall Islands",2.44820295983087,1990,"MHL","East Asia & Pacific (all income levels)",1158
+"MK","Macedonia, FYR",4.76609123110748,1990,"MKD","Europe & Central Asia (all income levels)",95142
+"ML","Mali",1.89500800216928,1990,"MLI","Sub-Saharan Africa (all income levels)",160736
+"MM","Myanmar",0.317908961985639,1990,"MMR","East Asia & Pacific (all income levels)",133545
+"MN","Mongolia",0.307580311746702,1990,"MNG","East Asia & Pacific (all income levels)",6718
+"MO","Macao SAR, China",56.9994579343128,1990,"MAC","East Asia & Pacific (all income levels)",205047
+"MP","Northern Mariana Islands",60.4771218047849,1990,"MNP","East Asia & Pacific (all income levels)",26593
+"MR","Mauritania",5.51721752365139,1990,"MRT","Sub-Saharan Africa (all income levels)",111650
+"MT","Malta",4.23860087094153,1990,"MLT","Middle East & North Africa (all income levels)",15077
+"MU","Mauritius",0.342183896615571,1990,"MUS","Sub-Saharan Africa (all income levels)",3613
+"MV","Maldives",3.89328745088023,1990,"MDV","South Asia",8689
+"MW","Malawi",11.9855908142397,1990,"MWI","Sub-Saharan Africa (all income levels)",1127724
+"MX","Mexico",0.812613997406173,1990,"MEX","Latin America & Caribbean (all income levels)",695674
+"MY","Malaysia",3.82140625575714,1990,"MYS","East Asia & Pacific (all income levels)",695920
+"MZ","Mozambique",0.914838956800011,1990,"MOZ","Sub-Saharan Africa (all income levels)",122332
+"NA","Namibia",8.52317324491839,1990,"NAM","Sub-Saharan Africa (all income levels)",120641
+"NC","New Caledonia",22.3529551374476,1990,"NCL","East Asia & Pacific (all income levels)",37673
+"NE","Niger",1.45937427798486,1990,"NER","Sub-Saharan Africa (all income levels)",115464
+"NG","Nigeria",0.477550385863569,1990,"NGA","Sub-Saharan Africa (all income levels)",456621
+"NI","Nicaragua",0.999405486318947,1990,"NIC","Latin America & Caribbean (all income levels)",41421
+"NL","Netherlands",7.92659726469864,1990,"NLD","Europe & Central Asia (all income levels)",1182263
+"NO","Norway",4.54174453910326,1990,"NOR","Europe & Central Asia (all income levels)",192587
+"NP","Nepal",2.29421170601069,1990,"NPL","South Asia",429974
+"NR","Nauru",30.7415092279131,1990,NA,NA,2815
+"NZ","New Zealand",15.2477355634999,1990,"NZL","East Asia & Pacific (all income levels)",518047
+"OE","OECD members",5.96445377219739,1990,"OED","Aggregates",63640794
+"OM","Oman",16.775569914119,1990,"OMN","Middle East & North Africa (all income levels)",304000
+"PA","Panama",2.53920461673567,1990,"PAN","Latin America & Caribbean (all income levels)",62744
+"PE","Peru",0.297915512306098,1990,"PER","Latin America & Caribbean (all income levels)",65025
+"PF","French Polynesia",13.0211221454857,1990,"PYF","East Asia & Pacific (all income levels)",25830
+"PG","Papua New Guinea",0.786935144951674,1990,"PNG","East Asia & Pacific (all income levels)",32720
+"PH","Philippines",0.248712858372934,1990,"PHL","East Asia & Pacific (all income levels)",154071
+"PK","Pakistan",5.76929673180544,1990,"PAK","South Asia",6208204
+"PL","Poland",2.95264663482572,1990,"POL","Europe & Central Asia (all income levels)",1127771
+"PR","Puerto Rico",9.15038271919372,1990,"PRI","Latin America & Caribbean (all income levels)",321909
+"PS","West Bank and Gaza",13.7225413058336,1990,"PSE","Middle East & North Africa (all income levels)",288332
+"PT","Portugal",4.40614706158618,1990,"PRT","Europe & Central Asia (all income levels)",435782
+"PW","Palau",18.5631917290742,1990,"PLW","East Asia & Pacific (all income levels)",2801
+"PY","Paraguay",4.64869688210473,1990,"PRY","Latin America & Caribbean (all income levels)",195884
+"QA","Qatar",65.0088776396812,1990,"QAT","Middle East & North Africa (all income levels)",309753
+"RO","Romania",0.578240506414798,1990,"ROU","Europe & Central Asia (all income levels)",135825
+"RS","Serbia",1.04299686793091,1990,"SRB","Europe & Central Asia (all income levels)",99269
+"RU","Russian Federation",7.80989434659493,1990,"RUS","Europe & Central Asia (all income levels)",11524948
+"RW","Rwanda",2.20213120580076,1990,"RWA","Sub-Saharan Africa (all income levels)",159869
+"S1","Small states",7.95271705513836,1990,"SST","Aggregates",1947092
+"S2","Pacific island small states",2.30309304026105,1990,"PSS","Aggregates",39024
+"S3","Caribbean small states",3.45418257615454,1990,"CSS","Aggregates",205846
+"S4","Other small states",10.1137493792036,1990,"OSS","Aggregates",1702222
+"SA","Saudi Arabia",30.5501290136029,1990,"SAU","Middle East & North Africa (all income levels)",4998445
+"SB","Solomon Islands",1.35514303396836,1990,"SLB","East Asia & Pacific (all income levels)",4226
+"SC","Seychelles",5.26852336924972,1990,"SYC","Sub-Saharan Africa (all income levels)",3721
+"SD","Sudan",7.01139358454408,1990,"SDN","Sub-Saharan Africa (all income levels)",1402896
+"SE","Sweden",9.21552914340246,1990,"SWE","Europe & Central Asia (all income levels)",788767
+"SG","Singapore",24.1102638907307,1990,"SGP","East Asia & Pacific (all income levels)",727262
+"SI","Slovenia",8.87491776807607,1990,"SVN","Europe & Central Asia (all income levels)",178077
+"SK","Slovak Republic",0.782441775399136,1990,"SVK","Europe & Central Asia (all income levels)",41295
+"SL","Sierra Leone",5.65327502386035,1990,"SLE","Sub-Saharan Africa (all income levels)",222242
+"SM","San Marino",13.7658556872531,1990,"SMR","Europe & Central Asia (all income levels)",3310
+"SN","Senegal",3.59865273766299,1990,"SEN","Sub-Saharan Africa (all income levels)",270410
+"SO","Somalia",7.56600963519607,1990,"SOM","Sub-Saharan Africa (all income levels)",478294
+"SR","Suriname",4.41637519717054,1990,"SUR","Latin America & Caribbean (all income levels)",18031
+"ST","Sao Tome and Principe",4.91481399955976,1990,"STP","Sub-Saharan Africa (all income levels)",5582
+"SV","El Salvador",0.901737634713243,1990,"SLV","Latin America & Caribbean (all income levels)",47360
+"SY","Syrian Arab Republic",5.73535528419419,1990,"SYR","Middle East & North Africa (all income levels)",714140
+"SZ","Swaziland",8.35547240845318,1990,"SWZ","Sub-Saharan Africa (all income levels)",72085
+"T2","Latin America & the Caribbean (IDA & IBRD countries)",1.49922251532173,1990,NA,NA,6461378
+"T3","Middle East & North Africa (IDA & IBRD countries)",3.56211610712841,1990,NA,NA,7998121
+"T4","East Asia & Pacific (IDA & IBRD countries)",0.159385492245546,1990,NA,NA,2530977
+"T5","South Asia (IDA & IBRD)",1.33681927424899,1990,NA,NA,15144742
+"T6","Sub-Saharan Africa (IDA & IBRD countries)",2.87257347643455,1990,NA,NA,14495276
+"T7","Europe & Central Asia (IDA & IBRD countries)",7.36390315189862,1990,NA,NA,31440033
+"TC","Turks and Caicos Islands",43.8268398268398,1990,"TCA","Latin America & Caribbean (all income levels)",5062
+"TD","Chad",1.24776309990128,1990,"TCD","Sub-Saharan Africa (all income levels)",74342
+"TG","Togo",2.24043568663053,1990,"TGO","Sub-Saharan Africa (all income levels)",84844
+"TH","Thailand",0.934370119101867,1990,"THA","East Asia & Pacific (all income levels)",528693
+"TJ","Tajikistan",8.09659889988949,1990,"TJK","Europe & Central Asia (all income levels)",428900
+"TL","Timor-Leste",1.2096224016557,1990,"TLS","East Asia & Pacific (all income levels)",8954
+"TM","Turkmenistan",8.35605234460196,1990,"TKM","Europe & Central Asia (all income levels)",306500
+"TN","Tunisia",0.461374184253541,1990,"TUN","Middle East & North Africa (all income levels)",37984
+"TO","Tonga",3.05931562132167,1990,"TON","East Asia & Pacific (all income levels)",2911
+"TR","Turkey",2.15518939345885,1990,"TUR","Europe & Central Asia (all income levels)",1163686
+"TT","Trinidad and Tobago",4.14647959250481,1990,"TTO","Latin America & Caribbean (all income levels)",50666
+"TV","Tuvalu",3.53176366059529,1990,"TUV","East Asia & Pacific (all income levels)",318
+"TZ","Tanzania",2.25477378454917,1990,"TZA","Sub-Saharan Africa (all income levels)",574025
+"UA","Ukraine",13.418179467323,1990,"UKR","Europe & Central Asia (all income levels)",6892920
+"UG","Uganda",3.21154595832613,1990,"UGA","Sub-Saharan Africa (all income levels)",558307
+"US","United States",9.19566042513874,1990,"USA","North America",23251026
+"UY","Uruguay",3.15486849301942,1990,"URY","Latin America & Caribbean (all income levels)",98116
+"UZ","Uzbekistan",8.0574214847415,1990,"UZB","Europe & Central Asia (all income levels)",1653000
+"V1","Pre-demographic dividend",2.68389829140442,1990,NA,NA,10996437
+"V2","Early-demographic dividend",2.08444127559186,1990,NA,NA,42323294
+"V3","Late-demographic dividend",1.51301088795018,1990,NA,NA,28119318
+"V4","Post-demographic dividend",7.30783618073991,1990,NA,NA,70533191
+"VC","St. Vincent and the Grenadines",3.69271409835456,1990,"VCT","Latin America & Caribbean (all income levels)",3970
+"VE","Venezuela, RB",5.16066416207988,1990,"VEN","Latin America & Caribbean (all income levels)",1025009
+"VG","British Virgin Islands",48.8182757154141,1990,NA,NA,8035
+"VI","Virgin Islands (U.S.)",50.3326779851433,1990,"VIR","Latin America & Caribbean (all income levels)",51970
+"VN","Vietnam",0.0412229339434371,1990,"VNM","East Asia & Pacific (all income levels)",28118
+"VU","Vanuatu",1.57399766764644,1990,"VUT","East Asia & Pacific (all income levels)",2308
+"WS","Samoa",2.06121634482547,1990,"WSM","East Asia & Pacific (all income levels)",3357
+"XC","Euro area",6.50117577766719,1990,"EMU","Aggregates",20064759
+"XD","High income",7.70774505729744,1990,"HIC","Aggregates",75701471
+"XE","Heavily indebted poor countries (HIPC)",3.38530225090562,1990,"HPC","Aggregates",12008148
+"XF","IBRD only",1.57108284013812,1990,NA,NA,53272915
+"XG","IDA total",2.70805252684348,1990,NA,NA,24797612
+"XH","IDA blend",2.8602143756728,1990,NA,NA,10100566
+"XI","IDA only",2.61330832142644,1990,NA,NA,14697046
+"XJ","Latin America & Caribbean (excluding high income)",1.16917606333023,1990,NA,NA,4574492
+"XL","Least developed countries: UN classification",2.19632484124053,1990,"LDC","Aggregates",11075966
+"XM","Low income",2.7008778224635,1990,"LIC","Aggregates",8533974
+"XN","Lower middle income",1.7622059864688,1990,"LMC","Aggregates",33584781
+"XO","Low & middle income",1.76347386757602,1990,"LMY","Aggregates",74917614
+"XP","Middle income",1.68799483148496,1990,"MIC","Aggregates",66383640
+"XQ","Middle East & North Africa (excluding high income)",3.65085675442914,1990,NA,NA,8286453
+"XT","Upper middle income",1.61805296841585,1990,"UMC","Aggregates",32798859
+"XU","North America",9.84714841450885,1990,"NAC","Aggregates",27600027
+"YE","Yemen, Rep.",0.993746477643902,1990,"YEM","Middle East & North Africa (all income levels)",118863
+"Z4","East Asia & Pacific",0.639981645219179,1990,NA,NA,11562099
+"Z7","Europe & Central Asia",6.96526589588841,1990,NA,NA,58408632
+"ZA","South Africa",3.16328513549544,1990,"ZAF","Sub-Saharan Africa (all income levels)",1163883
+"ZF","Sub-Saharan Africa (excluding high income)",2.87223990069852,1990,NA,NA,14491555
+"ZG","Sub-Saharan Africa",2.87257347643455,1990,NA,NA,14495276
+"ZJ","Latin America & Caribbean",1.56104525785348,1990,NA,NA,6957619
+"ZM","Zambia",3.42655206061739,1990,"ZMB","Sub-Saharan Africa (all income levels)",279029
+"ZQ","Middle East & North Africa",7.12748209921003,1990,NA,NA,18100609
+"ZT","IDA & IBRD total",1.81233148874704,1990,NA,NA,78070527
+"ZW","Zimbabwe",5.97839475940867,1990,"ZWE","Sub-Saharan Africa (all income levels)",626821

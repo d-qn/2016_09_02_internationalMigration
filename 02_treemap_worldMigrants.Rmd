@@ -1,0 +1,180 @@
+---
+title: "03 treemap international migrants stock "
+author: "Duc-Quang Nguyen"
+date: "1 September 2016"
+output: html_document
+---
+
+
+* [highchart example of drillable treemap](http://www.highcharts.com/demo/treemap-large-dataset()
+* [highcharter drillable treemap](http://jkunst.com/highcharter/oldindex.html#treemaps)
+
+
+
+```{r setup, include=FALSE}
+getData <- F
+data.file <- 'input/absIntlMigrants_wb.csv'
+translation.file <- 'input/International migrant stock treemap  - Sheet1.csv'
+
+library(WDI)
+library(readr)
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(forcats)
+library(countrycode)
+library(ggplot2)
+library(scales)
+library(swiMap)
+library(swiTheme)
+
+library(treemap)
+library(highcharter)
+library(swiRcharts)
+library(htmltools)
+```
+
+```{r get data}
+txt <- read.csv(translation.file, row.names = 1, stringsAsFactors = F)
+# discard incomplete translations
+cidx <- unique(which(txt =="" | is.na(txt), T)[,2])
+if(length(cidx > 0)) {
+  warning(paste(colnames(txt)[cidx], collapse = "\t"), " languages will be discarded!", "\n")
+  txt <- txt[,-cidx, drop = F]
+}
+colnames(txt)
+
+
+if(getData) {
+  wb.db <- c('SM.POP.TOTL.ZS', 'SM.POP.TOTL')
+  getWBdata <- function(db) {
+    data.dl  <- WDI(indicator = db, start = 1950, end = 2016, 
+                    extra = TRUE, cache = NULL)
+    colnames(data.dl)[3] <- 'value'
+    data.dl$indicator <- db
+    data.dl %>% select(-capital, -longitude, -latitude, -lending)    
+  } 
+  data.get <- do.call(rbind, lapply(wb.db, getWBdata))
+  
+  
+  data <- data.get %>% filter(indicator == 'SM.POP.TOTL.ZS') %>%
+  select( -income, -indicator) %>% 
+  rename(pc = value)
+
+  data <- left_join(data, data.get %>% filter(indicator == 'SM.POP.TOTL') %>%
+                      select( -income, -indicator) %>% 
+                      rename(abs = value)
+  ) %>% filter(!is.na(pc)) %>%
+    arrange(desc(year))
+
+	write.csv(data, file = data.file, row.names = F)
+} else {
+  data <- read_csv( file = data.file )
+}
+## wrangle data
+
+# remove NA abs values
+data <- data[which(!is.na(data$abs)),]
+
+# discard region / aggregates
+data %<>% filter(region != "Aggregates") %>% 
+  arrange(year)
+
+# take only the last year for each country
+dd <- data %>% group_by(iso2c, country, iso3c, region) %>%
+  summarise(abs = last(abs), pc = last(pc), year = last(year)) %>%
+  ungroup()
+
+# get the iso3 code for geographical regions
+region2iso3 <- structure(c(
+  "East Asia & Pacific (all income levels)", "Europe & Central Asia (all income levels)", "Latin America & Caribbean (all income levels)",
+  "Middle East & North Africa (all income levels)", "North America", "South Asia", "Sub-Saharan Africa (all income levels)"),
+  names = c( 'EAS', 'ECS', 'LCN', 'MNA', 'NAC', 'SAS', 'SSA'))
+                              
+dd$region <- names(region2iso3)[match(dd$region, region2iso3)]
+
+regionOrdered <- dd %>% group_by(region) %>% summarise(tot = sum(abs)) %>% 
+  arrange(desc(tot)) %>% ungroup() %>% 
+  select(region) %>% unlist(use.names = F)
+
+tot.test <- sum(dd$abs)
+```
+
+
+```{r interactive treemap}
+
+lang <- 'FR'
+for (lang in 'FR') {# colnames(txt)) {
+  df <- dd
+  
+  # get translation region and order factor
+  df$region <- countryTranslation(df$region, lang)[,-1]
+  df$region <- factor(df$region, levels = countryTranslation(regionOrdered, lang)[,-1])
+  
+  # get country translations. For NA translation, get the English name
+  df$labelCountry <- countryTranslation(df$iso2c, lang)[,-1]
+  df[which(is.na(df$labelCountry)), 'labelCountry'] <- df[which(is.na(df$labelCountry)), 'country']
+  
+  # Merge countries with less 25k foreigners
+  df[which(df$abs < 40000), 'labelCountry'] <- txt['others', lang]
+  df %<>% group_by(labelCountry, region) %>%
+    summarise(
+      abs = sum(abs),
+      pc = mean(pc)
+    ) %>% ungroup()
+  stopifnot(sum(df$abs) == tot.test)
+  df$totShare <- round((df$abs / tot.test) * 100, 1)
+  
+  dff <- treemap(df, draw = F, index = c("region", "labelCountry"), vSize = "abs", type = "index", vColor = "pc", palette = swi_rpal[c(6, 9, 19, 4, 8, 1, 13)])
+  
+  hc_tm <- highchart() %>% 
+    hc_chart(margin = list(0,0,0,0)) %>%
+  hc_add_series_treemap(
+    dff, 
+    allowDrillToNode = TRUE,
+    states = list(hover = list(brightness = -0.3)),
+    layoutAlgorithm = "squarified",
+    allowPointSelect = T,
+    levelIsConstant = F,
+    name = "migration", 
+    levels = list(
+      list(
+        level = 1,
+        dataLabels = list (enabled = T, color = '#f7f5ed', style = list("fontSize" = "1.5em")),
+        borderWidth = 1
+      ),
+       list(
+        level = 2,
+        dataLabels = list (enabled = T,  align = 'left', verticalAlign = 'top', 
+                           style = list("textShadow" = F, "fontWeight" = 'light', "fontSize" = "1.3em")),
+        borderWidth = 0.7
+      ) 
+    )
+  ) %>% hc_add_theme(hc_theme_swi) %>% 
+  hc_tooltip(
+    borderRadius = 10, useHTML = T,
+    pointFormat = paste0("<h4>{point.name}</h4><small>", txt['tp', lang], ":<br>{point.value:,.0f}</small>")
+  )
+
+  footer <- paste0(
+    txt['source', lang], ": ", htmlLink(txt['source.url', lang], txt['source.name', lang]), " | ",
+    txt['code', lang], ": ", htmlLink(txt['code.url', lang], txt['code.name', lang]), " | ",
+    htmlLink("http://www.swissinfo.ch", 'swissinfo.ch')               
+  )
+  
+  save_html(
+    tags$html(
+      tags$head(includeHTML(style_swi_highcharter())),
+      tags$body(    
+        tags$h2(txt['title1', lang]),
+        div(class = "descr", txt['descr1', lang]),
+        div(class="graphic", hc_tm),
+        div(id = "cite", HTML(footer)),
+        HTML(iframeresizer)
+      )
+    ), file = paste0("03_internationalMigrantStock_treemap_", lang, ".html"), libdir = "js"
+  )     
+  
+}
+
+```

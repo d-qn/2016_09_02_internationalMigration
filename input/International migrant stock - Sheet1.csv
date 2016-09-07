@@ -1,0 +1,12 @@
+code,EN,FR,DE,IT,PT,AR,RU,ES,JA,ZH
+title1,"% of foreign born population by geographic regions, 1990-2015","% de migrants internationaux par régions géographiques, 1990-2015",,,,,,,,
+descr1,,% de personnes nées dans un pays autre que celui dans lequel elles vivent.,,,,,,,,
+title2,,"% de migrants internationaux pour une sélection de pays, 1990-2015",,,,,,,,
+axis.x,,année,,,,,,,,
+axis.y,,immigrés,,,,,,,,
+source,Source,source,Quelle,Fonte,fonte,المصدر,Источник,Fuente,出典,来源
+source.name,United Nations Population Division,Nations Unies,,,,,,,,
+source.url,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart,http://data.worldbank.org/indicator/SM.POP.TOTL.ZS?end=2015&start=1990&view=chart
+code,Code,code,Code,Codice,código,الرمز,Код,código,コード,代码
+code.name,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR,metricgraphicsR
+code.url,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics,https://github.com/hrbrmstr/metricsgraphics

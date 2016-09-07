@@ -1,0 +1,11 @@
+code,EN,FR,DE,IT,PT,AR,RU,ES,JA,ZH
+title1,,Répartition des 244 millions de migrants internationaux  ,,,,,,,,
+descr1,,En 2015. Un migrant est défini ici comme toute personne née dans un pays autre que celui dans lequel elle vit. Cliquez ou tapotez sur le graphique pour zoomer sur une région géographique.,,,,,,,,
+tp,,Population née à l'étranger,,,,,,,,
+others,,Autres pays,,,,,,,,
+source,Source,source,Quelle,Fonte,fonte,المصدر,Источник,Fuente,出典,来源
+source.name,United Nations Population Division,Nations Unies,,,,,,,,
+source.url,http://data.worldbank.org/indicator/SM.POP.TOTL,http://donnees.banquemondiale.org/indicateur/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL,http://data.worldbank.org/indicator/SM.POP.TOTL
+code,Code,code,Code,Codice,código,الرمز,Код,código,コード,代码
+code.name,highcharter,highcharter,highcharter,highcharter,highcharter,highcharter,highcharter,highcharter,highcharter,highcharter
+code.url,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter,https://github.com/jbkunst/highcharter
