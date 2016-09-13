@@ -133,9 +133,9 @@ if(length(cidx &gt; 0)) {
   warning(paste(colnames(txt)[cidx], collapse = &quot;\t&quot;), &quot; languages will be discarded!&quot;, &quot;\n&quot;)
   txt &lt;- txt[,-cidx, drop = F]
 }</code></pre>
-<pre><code>## Warning: EN  DE  IT  PT  AR  RU  ES  JA  ZH languages will be discarded!</code></pre>
+<pre><code>## Warning: JA languages will be discarded!</code></pre>
 <pre class="r"><code>colnames(txt)</code></pre>
-<pre><code>## [1] &quot;FR&quot;</code></pre>
+<pre><code>## [1] &quot;EN&quot; &quot;FR&quot; &quot;DE&quot; &quot;IT&quot; &quot;PT&quot; &quot;AR&quot; &quot;RU&quot; &quot;ES&quot; &quot;ZH&quot;</code></pre>
 <pre class="r"><code>if(getData) {
   wb.db &lt;- c('SM.POP.TOTL.ZS', 'SM.POP.TOTL')
   getWBdata &lt;- function(db) {
@@ -200,7 +200,7 @@ regionOrdered &lt;- dd %&gt;% group_by(region) %&gt;% summarise(tot = sum(abs)) 
 
 tot.test &lt;- sum(dd$abs)</code></pre>
 <pre class="r"><code>lang &lt;- 'FR'
-for (lang in 'FR') {# colnames(txt)) {
+for (lang in colnames(txt)) {
   df &lt;- dd
   
   # get translation region and order factor
@@ -233,6 +233,7 @@ for (lang in 'FR') {# colnames(txt)) {
     allowPointSelect = T,
     levelIsConstant = F,
     name = &quot;migration&quot;, 
+    dataLabels = list(useHTML = ifelse(lang == &quot;AR&quot;, T, F)),
     levels = list(
       list(
         level = 1,
@@ -241,7 +242,7 @@ for (lang in 'FR') {# colnames(txt)) {
       ),
        list(
         level = 2,
-        dataLabels = list (enabled = T,  align = 'left', verticalAlign = 'top', 
+        dataLabels = list (enabled = T,  align = ifelse(lang == &quot;AR&quot;, 'right', 'left'), verticalAlign = 'top', 
                            style = list(&quot;textShadow&quot; = F, &quot;fontWeight&quot; = 'light', &quot;fontSize&quot; = &quot;1.3em&quot;)),
         borderWidth = 0.7
       ) 

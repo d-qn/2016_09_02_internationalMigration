@@ -104,7 +104,7 @@ tot.test <- sum(dd$abs)
 ```{r interactive treemap}
 
 lang <- 'FR'
-for (lang in 'FR') {# colnames(txt)) {
+for (lang in colnames(txt)) {
   df <- dd
   
   # get translation region and order factor
@@ -137,6 +137,7 @@ for (lang in 'FR') {# colnames(txt)) {
     allowPointSelect = T,
     levelIsConstant = F,
     name = "migration", 
+    dataLabels = list(useHTML = ifelse(lang == "AR", T, F)),
     levels = list(
       list(
         level = 1,
@@ -145,7 +146,7 @@ for (lang in 'FR') {# colnames(txt)) {
       ),
        list(
         level = 2,
-        dataLabels = list (enabled = T,  align = 'left', verticalAlign = 'top', 
+        dataLabels = list (enabled = T,  align = ifelse(lang == "AR", 'right', 'left'), verticalAlign = 'top', 
                            style = list("textShadow" = F, "fontWeight" = 'light', "fontSize" = "1.3em")),
         borderWidth = 0.7
       ) 

@@ -13,47 +13,12 @@ output:
 
 **Migration series**
 
-*1 - Quel pays a le plus d'immigrés?*
-
-Près 30% de la population suisse est née à l'étranger, une des proportions les plus élevées d'Europe. Mais ce sont les pays du Golfe qui ont le taux d'immigrés les plus élevés au monde. Les Émirats arabes unis comprennent jusqu'à trois fois la taux d'immigrés helvétique. 
-
->Vote par le peuple suisse pour limiter l'immigration, Brexit et le referendum britannique en faveur de sa sortie de l'Union Européenne, tensions dans l'Union Européenne face à l'afflux de demandeurs d'asile, Donald Trump et son programme pour limiter l'influx d'émigrés Mexicains en érigeant un mur aux Etats-Unis.
-
->Au delà de l'habituel clivage gauche-droite, l'immigration est sous pression et l'isolationnisme est à l'ordre de jour. En Suisse comme au Royaume-Uni, on est prêt à limiter l'influx d'immigrants même si cela remet potentiellement en cause l'accès au marché européen qui a largement contribué à la croissance économique.
-
->A travers des graphiques, swissinfo.ch présente une série sur l'immigration. De l'aspect mondial, aux flux, en passant par l'évolution historique, retrouvez chaque semaine la réalité des chiffres sur ce sujet.   
-
-
-Des nombreux pays occidentaux débattent actuellement de l'immigration. En Suisse et au Royaume-Uni, le peuple a plébiscité un contrôle plus stricte de l'immigration. 
-
-Ce sont pourtant les pays du Golfe (Bahrain, Kuwait, Oman, Qatar, Arabie Saoudite et les Emirats arabes unis) selon statistiques des Nations Unies présentées dans la carte ci-dessous qui ont le plus grand nombre d'immigrés en comparaison avec leur population totale.  Ces pays dépendent largement de travailleurs étrangers afin de maintenir leur croissance économique
-
-https://datawrapper.dwcdn.net/MpyE1/3/
-
-A noter que la définition utilisée ici d'immigré est basée uniquement sur le pays de naissance et non la nationalité d'une personne. Toute personne née dans un pays autre que celui dans lequel elle vit est comptabilisée comme un immigré. Selon cette définition, la Suisse compte près de 30% d'immigrés (vs 25% en considérant la nationalité plutôt que le lieu de naissance). 30 nations comptabilisent davantage d'immigrés que la Suisse, mais la grande majorité sont des Cités-Etats comme Monaco, Singapore ou le Luxembourg.
-
 Un [rapport de Organisation Internationale pour les Migrations](http://publications.iom.int/system/files/how_the_world_gallup.pdf) (OIM) de 2015 montre que les populations des pays du Golfe malgré leur taux élevé de migrants, ont une opinion favorable de l'immigration. Ces pays dépendent largement de travailleurs étrangers afin de maintenir leur croissance économique, même si des [ONGs](https://www.hrw.org/news/2015/12/22/gulf-countries-bid-protect-migrant-workers) dénoncent régulièrement des abus commis à l’encontre des travailleurs migrants dans ces pays. 
 
 Selon ce rapport de l'OIM, ce sont les Européens qui ont l'opinion la plus négative de l'immigration dans le monde, 52% estiment que l'immigration dans leur pays devrait être réduite. Toutefois cet avis varie de manière importante selon les pays, les personnes sondées au Royaume-Uni ainsi que les pays méditerranéens (Grèce, Italie, Espagne, Portugal) souhaitent en majorité une diminuation de l'immigration. Des conclusions à prendre avec des pincettes lorsqu'on voit que l'opinion varie selon le taux de chômage du pays, le niveau d'éducation et l'âge des sondés. Dans ce rapport la Suisse est  décrite comme étant favorable à un maintien ou une augmentation de l'immigration, ce qui semble en désaccord avec le résultat des urnes où les Helvètes ont plébiscité de justesse l'imposition de quotas à l'immigration.
 
 
 Le graphique ci-dessous présente l'évolution du taux d'immigrés de 1990 à 2015 par régions géographiques, ainsi que pour une sélection de pays. Un point important à relever, les Nations Unies, ainsi de nombreuses ONGs et médias, ont largement relayés [l'information alarmiste](http://www.un.org/sustainabledevelopment/blog/2016/01/244-million-international-migrants-living-abroad-worldwide-new-un-statistics-reveal/): "Le nombre de migrants international a atteint 244 millions en 2015 au niveau mondial, soit une augmentation de 41% depuis 2000". Ce chiffre certes impressionnant est trompeur, car il ne prend pas en compte la croissance de la population mondiale de +20% durant la même période. Si on exprime le taux total de migrants international par rapport à la population mondiale, on peut voir comme illustré dans le premier graphique ci-dessous que la proportion de migrants est restée relativement stable ces 25 dernières années, autour des 3% et une augmentation de seulement 0.5 point de pourcentage depuis 2000.
-
-
-**GRAPHIC**
-
-
-swissinfo contre l'immigration de masse
-
-
-
-
-http://www.swissinfo.ch/fre/querelle-d-économistes_la-suisse-profite-t-elle-vraiment-des-accords-bilatéraux-avec-l-ue-/42067056
-
-http://www.swissinfo.ch/fre/en-chiffres_qui-sont-ces-deux-millions-d-étrangers-qui-vivent-en-suisse-/41931704
-
-
-
 
 
 ## Related stories
@@ -65,7 +30,7 @@ http://www.swissinfo.ch/fre/en-chiffres_qui-sont-ces-deux-millions-d-étrangers-
 ## Points
 * Heavily reliant on foreign labor to sustain economic growth and high standard of living in the country, the UAE [migrationpolicy](http://www.migrationpolicy.org/article/labor-migration-united-arab-emirates-challenges-and-responses)
 
-* South-South migration flows (across developing countries) continued to grow compared to South-North movements (from developing to developed countries.) In 2015, 90.2 million international migrants born in developing countries were living in other countries in the Global South, while 85.3 million born in the South lived in countries in the Global North. [IOM factsheet](https://www.iom.int/news/iom-releases-global-migration-trends-2015-factsheet)
+
 
 
 ```{r setup, include=FALSE}
